@@ -1,0 +1,34 @@
+
+==== Entities in the file ====
+Cosimo ENTITY:PER
+Grammichele ENTITY:GPE
+Caltagirone ENTITY:ORG
+Sua ENTITY:PER
+Maestà ENTITY:PER
+Catania ENTITY:GPE
+Cosimo ENTITY:PER
+Grammichele ENTITY:GPE
+Cosimo ENTITY:PER
+Caltagirone ENTITY:ORG
+Dio ENTITY:PER
+Cosimo ENTITY:PER
+Dio ENTITY:PER
+Cosimo ENTITY:PER
+Cosimo ENTITY:PER
+Cosimo ENTITY:PER
+Dio ENTITY:PER
+Dio ENTITY:PER
+Cosimo ENTITY:PER
+Cosimo ENTITY:PER
+Cosimo ENTITY:PER
+Madonna ENTITY:LOC
+Dio ENTITY:PER
+Cosimo ENTITY:PER
+Cosimo ENTITY:PER
+Zia ENTITY:PER
+Lisa ENTITY:PER
+Cosimo ENTITY:PER
+Sicilia ENTITY:GPE
+Cosimo ENTITY:PER
+Orazio ENTITY:PER
+Turco ENTITY:PER

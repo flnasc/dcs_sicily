@@ -1,0 +1,72 @@
+
+==== Adjectives Counter ====
+Total number of nouns     : 133
+Total number of adjectives: 161
+Average adjectives/noun.  : 1
+
+
+Sostantivo: ste
+Aggetivi: Counter({'belle': 2})
+
+Sostantivo: madre
+Aggetivi: Counter({'Mia': 1, 'vostra': 1, 'tua': 1})
+
+Sostantivo: tempo
+Aggetivi: Counter({"ch'": 1, 'elegantissimo': 1})
+
+Sostantivo: marito
+Aggetivi: Counter({'suo': 2, 'mio': 1})
+
+Sostantivo: cose
+Aggetivi: Counter({'belle': 1, 'circostanti': 1})
+
+Sostantivo: mamma
+Aggetivi: Counter({'mia': 2})
+
+Sostantivo: mule
+Aggetivi: Counter({'sue': 2})
+
+Sostantivo: moglie
+Aggetivi: Counter({'vostra': 2, 'sua': 1})
+
+Sostantivo: Iddio
+Aggetivi: Counter({'vero': 2})
+
+Sostantivo: sera
+Aggetivi: Counter({'quella': 2})
+
+Sostantivo: caruso
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: labbro
+Aggetivi: Counter({'inferiore': 2})
+
+Sostantivo: bujo
+Aggetivi: Counter({'crudo': 1, 'vano': 1})
+
+Sostantivo: lagrima
+Aggetivi: Counter({'grossa': 1, 'sua': 1})
+
+Sostantivo: bocca
+Aggetivi: Counter({'arsa': 1, 'sua': 1, 'aperta': 1})
+
+Sostantivo: occhio
+Aggetivi: Counter({'pieno': 1, 'perduto': 1, 'chiaro': 1})
+
+Sostantivo: antro
+Aggetivi: Counter({'infernale': 1, 'noto': 1})
+
+Sostantivo: padrone
+Aggetivi: Counter({'suo': 3})
+
+Sostantivo: scalini
+Aggetivi: Counter({'rotti': 1, 'ultimi': 1})
+
+Sostantivo: silenzio
+Aggetivi: Counter({'arcano': 1, 'nero': 1})
+
+Sostantivo: vacuità
+Aggetivi: Counter({'sterminata': 1, 'impalpabile': 1})
+
+Sostantivo: carico
+Aggetivi: Counter({'enorme': 1, 'suo': 1})

@@ -1,0 +1,19 @@
+
+==== Entities in the file ====
+Antonio ENTITY:PER
+Lucia ENTITY:PER
+Lucia ENTITY:PER
+Paolo ENTITY:PER
+Paolo ENTITY:PER
+Paolo ENTITY:PER
+Dio ENTITY:PER
+Ella ENTITY:PER
+Dio ENTITY:PER
+Nino ENTITY:PER
+Bestia ENTITY:PER
+Pippo ENTITY:PER
+Pizzanello ENTITY:PER
+Neli ENTITY:PER
+Pirru ENTITY:PER
+Neli ENTITY:PER
+Pirru ENTITY:PER

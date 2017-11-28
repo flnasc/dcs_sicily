@@ -1,0 +1,32 @@
+
+==== Entities in the file ====
+Lentini ENTITY:PER
+Piana ENTITY:LOC
+di ENTITY:LOC
+Catania ENTITY:LOC
+Francofonte ENTITY:GPE
+Resecone ENTITY:GPE
+Passaneto ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Canziria ENTITY:ORG
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:PER
+Mazzarò ENTITY:PER
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:PER
+Mazzarò ENTITY:PER
+Mazzarò ENTITY:PER
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:PER
+Mazzarò ENTITY:PER
+Mazzarò ENTITY:GPE
+Mazzarò ENTITY:PER
+Dio ENTITY:PER

@@ -1,0 +1,2037 @@
+
+==== Adjectives Counter ====
+Total number of nouns     : 2233
+Total number of adjectives: 4257
+Average adjectives/noun.  : 1
+
+
+Sostantivo: ste
+Aggetivi: Counter({'belle': 2})
+
+Sostantivo: notizie
+Aggetivi: Counter({'belle': 1, 'terribili': 1, 'private': 1, 'incerte': 1})
+
+Sostantivo: viso
+Aggetivi: Counter({'lungo': 1, 'altro': 1, 'buon': 1, 'bianco': 1, 'pallida': 1})
+
+Sostantivo: parole
+Aggetivi: Counter({'sue': 4, 'ultime': 2, 'belle': 1, 'inconsuete': 1, 'ambigue': 1, 'enigmatiche': 1, 'grosse': 1, 'precise': 1, 'dettate': 1, 'medesime': 1, 'staccate': 1})
+
+Sostantivo: madre
+Aggetivi: Counter({'sua': 8, 'mia': 5, 'vostra': 3, 'tua': 3, 'povera': 3, 'Mia': 1, 'sue': 1, 'loro': 1, 'Sua': 1})
+
+Sostantivo: mula
+Aggetivi: Counter({'baia': 4, 'nostra': 1, 'vostra': 1})
+
+Sostantivo: tempo
+Aggetivi: Counter({'stesso': 4, "ch'": 1, 'elegantissimo': 1, 'bei': 1, 'felice': 1, 'contrato': 1, 'assente': 1, 'perso': 1, 'lungo': 1, 'loro': 1})
+
+Sostantivo: paese
+Aggetivi: Counter({'suo': 5, 'nostro': 2, 'vicino': 2, 'ignoto': 2, 'immutato': 1, 'intero': 1, 'mio': 1, 'nascente': 1, 'remoto': 1, 'natale': 1})
+
+Sostantivo: amicizia
+Aggetivi: Counter({'nostra': 1, 'buona': 1, 'loro': 1, 'antica': 1})
+
+Sostantivo: marito
+Aggetivi: Counter({'suo': 9, 'mio': 5, 'tuo': 3, 'tiranno': 1, 'stesso': 1, 'ambizioso': 1, 'scontenнto': 1, 'geloso': 1, 'Mio': 1, 'povero': 1, 'incantato': 1, 'lontano': 1})
+
+Sostantivo: cose
+Aggetivi: Counter({'belle': 1, 'circostanti': 1, 'liete': 1, 'serissime': 1, 'Belle': 1, 'grandi': 1, 'brutte': 1, 'Brutte': 1, 'appropriate': 1, 'solide': 1, 'son': 1, 'nuove': 1, 'sue': 1, 'lontane': 1, 'spaventose': 1, 'nere': 1})
+
+Sostantivo: Dio
+Aggetivi: Counter({'vero': 3, 'vostro': 1, 'mio': 1, 'buon': 1})
+
+Sostantivo: sangue
+Aggetivi: Counter({'mio': 2, 'rissoso': 1, 'violento': 1, 'nuovo': 1, 'vostro': 1, 'innocente': 1})
+
+Sostantivo: mamma
+Aggetivi: Counter({'mia': 6, 'vecchia': 3, 'sua': 2, 'povera': 1})
+
+Sostantivo: amici
+Aggetivi: Counter({'suoi': 3, 'vecchi': 1, 'tuoi': 1, 'politici': 1})
+
+Sostantivo: mule
+Aggetivi: Counter({'sue': 5, 'cariche': 2})
+
+Sostantivo: colle
+Aggetivi: Counter({'sue': 2, 'medesime': 1, 'alto': 1})
+
+Sostantivo: veste
+Aggetivi: Counter({'bella': 1, 'vostra': 1, 'buffonesca': 1})
+
+Sostantivo: via
+Aggetivi: Counter({'vostra': 1, 'contenta': 1, 'stessa': 1})
+
+Sostantivo: moglie
+Aggetivi: Counter({'sua': 9, 'mia': 6, 'vostra': 3, 'Sua': 2, 'sana': 1, 'tua': 1, 'gravida': 1})
+
+Sostantivo: zitti
+Aggetivi: Counter({'zitti': 2})
+
+Sostantivo: compagno
+Aggetivi: Counter({'suo': 1, 'povero': 1})
+
+Sostantivo: Iddio
+Aggetivi: Counter({'vero': 3})
+
+Sostantivo: tiratori
+Aggetivi: Counter({'bravi': 1, 'esperti': 1})
+
+Sostantivo: misura
+Aggetivi: Counter({'buona': 1, 'eguale': 1, 'stessa': 1})
+
+Sostantivo: guardia
+Aggetivi: Counter({'tutto': 1, 'nazionale': 1, 'municipale': 1})
+
+Sostantivo: sera
+Aggetivi: Counter({'quella': 3, 'stessa': 3})
+
+Sostantivo: galantuomo
+Aggetivi: Counter({'povero': 1, 'bel': 1})
+
+Sostantivo: volta
+Aggetivi: Counter({'sua': 4, 'altra': 4, 'ultima': 3, 'prossima': 1, 'abbrividito': 1, 'suo': 1})
+
+Sostantivo: caruso
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: sorriso
+Aggetivi: Counter({'suo': 2, 'furbo': 2, 'squallido': 1, 'malizioso': 1, 'freddo': 1, 'ostinato': 1, 'timido': 1})
+
+Sostantivo: labbro
+Aggetivi: Counter({'inferiore': 2, 'superiore': 1})
+
+Sostantivo: allegria
+Aggetivi: Counter({'loro': 1, 'propria': 1, 'riottosa': 1})
+
+Sostantivo: facce
+Aggetivi: Counter({'dure': 1, 'chiuse': 1, 'avide': 1, 'stralunate': 1, 'loro': 1})
+
+Sostantivo: bujo
+Aggetivi: Counter({'crudo': 1, 'vano': 1})
+
+Sostantivo: fatica
+Aggetivi: Counter({'quotidiana': 1, 'grata': 1, 'terribile': 1})
+
+Sostantivo: vesti
+Aggetivi: Counter({'strappate': 1, 'loro': 1})
+
+Sostantivo: atteggiamento
+Aggetivi: Counter({'strano': 1, 'sensuale': 1, 'preso': 1})
+
+Sostantivo: lagrima
+Aggetivi: Counter({'grossa': 1, 'sua': 1})
+
+Sostantivo: bocca
+Aggetivi: Counter({'aperta': 6, 'sua': 2, 'arsa': 1, 'infantile': 1, 'asciutta': 1, 'bella': 1, 'schiumosa': 1})
+
+Sostantivo: occhio
+Aggetivi: Counter({'azzurro': 2, 'pieno': 1, 'perduto': 1, 'chiaro': 1, 'destro': 1, 'suo': 1, 'spento': 1})
+
+Sostantivo: rossa
+Aggetivi: Counter({'fiammella': 1, 'tutta': 1})
+
+Sostantivo: lanterna
+Aggetivi: Counter({'confitta': 1, 'verde': 1})
+
+Sostantivo: antro
+Aggetivi: Counter({'infernale': 1, 'noto': 1, 'intanfato': 1})
+
+Sostantivo: solco
+Aggetivi: Counter({'scavato': 1, 'nero': 1})
+
+Sostantivo: età
+Aggetivi: Counter({'sua': 2, 'mia': 2, 'tua': 2, 'nostra': 1, 'vostra': 1})
+
+Sostantivo: maniere
+Aggetivi: Counter({'buone': 3})
+
+Sostantivo: torace
+Aggetivi: Counter({'nudo': 1, 'smisurato': 1})
+
+Sostantivo: cura
+Aggetivi: Counter({'somma': 1, 'materna': 1, 'tanta': 1})
+
+Sostantivo: a
+Aggetivi: Counter({'superiore': 1, 'levante': 1})
+
+Sostantivo: meriti
+Aggetivi: Counter({'suoi': 1, 'molteplici': 1})
+
+Sostantivo: gambe
+Aggetivi: Counter({'nude': 2, 'larghe': 2, 'aperte': 1})
+
+Sostantivo: padrone
+Aggetivi: Counter({'suo': 4, 'nuovo': 1, "ch'": 1, 'tuo': 1})
+
+Sostantivo: scala
+Aggetivi: Counter({'lubrica': 1, 'breve': 1, 'interna': 1, 'angusta': 1})
+
+Sostantivo: scalini
+Aggetivi: Counter({'rotti': 1, 'ultimi': 1})
+
+Sostantivo: aspetti
+Aggetivi: Counter({'noti': 1, 'eroica': 1, 'inconsueti': 1, 'propri': 1})
+
+Sostantivo: coscienza
+Aggetivi: Counter({'chiara': 1, 'propria': 1, 'perfetta': 1, 'mia': 1, 'tranquilla': 1})
+
+Sostantivo: ombre
+Aggetivi: Counter({'mostruose': 1, 'calde': 1})
+
+Sostantivo: acqua
+Aggetivi: Counter({'sulfurea': 1, 'verminosa': 1, 'fredda': 1, 'bollente': 1, 'saponacea': 1, 'scura': 1})
+
+Sostantivo: piede
+Aggetivi: Counter({'noto': 1, 'vostro': 1})
+
+Sostantivo: notte
+Aggetivi: Counter({'Buona': 2, 'buona': 2, 'nera': 1, 'romanticissima': 1, 'fosca': 1, 'chiusa': 1, 'scorsa': 1, 'santa': 1, 'inoltrata': 1, 'ultima': 1})
+
+Sostantivo: silenzio
+Aggetivi: Counter({'lungo': 2, 'arcano': 1, 'nero': 1, 'luminoso': 1, 'improvviso': 1})
+
+Sostantivo: vacuità
+Aggetivi: Counter({'sterminata': 1, 'impalpabile': 1})
+
+Sostantivo: anima
+Aggetivi: Counter({'sua': 2, 'viva': 2, 'smarrita': 1, 'illusa': 1, 'santa': 1, 'immortale': 1, 'caritatevole': 1, 'sola': 1, 'vostra': 1, 'propria': 1})
+
+Sostantivo: punto
+Aggetivi: Counter({'certo': 9, 'sospeso': 1})
+
+Sostantivo: corpo
+Aggetivi: Counter({'suo': 8, 'minuscolo': 1, 'solido': 1, 'gigantesco': 1})
+
+Sostantivo: carico
+Aggetivi: Counter({'enorme': 1, 'suo': 1, 'leggiero': 1, 'triste': 1})
+
+Sostantivo: lume
+Aggetivi: Counter({'fioco': 1, 'scarso': 1})
+
+Sostantivo: mani
+Aggetivi: Counter({'sue': 3, 'proprie': 2, 'nere': 1, 'bianche': 1, 'aristocratiche': 1, 'loro': 1, 'mie': 1, 'piene': 1, 'grosse': 1, 'giunte': 1, 'tremanti': 1, 'vuote': 1, 'rosse': 1})
+
+Sostantivo: dolcezza
+Aggetivi: Counter({'grande': 1, 'paterna': 1})
+
+Sostantivo: velo
+Aggetivi: Counter({'ampio': 1, 'glauco': 1})
+
+Sostantivo: ciottoli
+Aggetivi: Counter({'umidi': 2})
+
+Sostantivo: orecchio
+Aggetivi: Counter({'suo': 2, 'teso': 1})
+
+Sostantivo: bestie
+Aggetivi: Counter({'sue': 7, 'povere': 3, 'selvagge': 1})
+
+Sostantivo: lettiga
+Aggetivi: Counter({'sua': 4, 'vuota': 1})
+
+Sostantivo: tasca
+Aggetivi: Counter({'sua': 1, 'propria': 1, 'piena': 1})
+
+Sostantivo: mestiere
+Aggetivi: Counter({'suo': 2, 'lucroso': 1, 'amaro': 1})
+
+Sostantivo: carro
+Aggetivi: Counter({'trionfale': 1, 'solare': 1})
+
+Sostantivo: sciabole
+Aggetivi: Counter({'appese': 1, 'sfoderate': 1})
+
+Sostantivo: zio
+Aggetivi: Counter({'tuo': 3, 'carissimo': 2, 'vecchio': 2, 'povero': 1, 'amatissimo': 1, 'suo': 1, 'canonico': 1, 'bestione': 1})
+
+Sostantivo: conto
+Aggetivi: Counter({'suo': 2, 'giusto': 1})
+
+Sostantivo: letto
+Aggetivi: Counter({'mio': 3, 'suo': 2, 'vuoto': 1, 'altissimo': 1, 'tiepido': 1, 'nuda': 1, 'alto': 1, 'pronto': 1, 'digiuna': 1, 'asciutto': 1})
+
+Sostantivo: uscio
+Aggetivi: Counter({'chiuso': 3})
+
+Sostantivo: viaggio
+Aggetivi: Counter({'buon': 2, 'lungo': 1, 'suo': 1})
+
+Sostantivo: alba
+Aggetivi: Counter({'cenerognola': 1, 'modesta': 1})
+
+Sostantivo: pezzo
+Aggetivi: Counter({'bel': 3, 'suo': 2, 'grosso': 2, 'solo': 1})
+
+Sostantivo: gola
+Aggetivi: Counter({'stretta': 1, 'bella': 1})
+
+Sostantivo: naso
+Aggetivi: Counter({'rosso': 1, 'largo': 1})
+
+Sostantivo: piazza
+Aggetivi: Counter({'gran': 1, 'squallida': 1})
+
+Sostantivo: par
+Aggetivi: Counter({'vero': 2, 'grande': 1})
+
+Sostantivo: calzoni
+Aggetivi: Counter({'rossi': 2, 'larghi': 1})
+
+Sostantivo: collo
+Aggetivi: Counter({'bianco': 2, 'teso': 1})
+
+Sostantivo: regina
+Aggetivi: Counter({'tua': 1, 'sua': 1, 'sana': 1})
+
+Sostantivo: padre
+Aggetivi: Counter({'suo': 11, 'mio': 4, 'Suo': 2, 'nostro': 1, 'stimabilissimo': 1, 'Mio': 1, 'buon': 1, 'tuo': 1})
+
+Sostantivo: parola
+Aggetivi: Counter({'sola': 2, 'sua': 1, 'fatale': 1, 'italiana': 1, 'tua': 1, 'affettuosa': 1, 'nuova': 1, 'siciliana': 1})
+
+Sostantivo: folla
+Aggetivi: Counter({'nera': 1, 'gran': 1, 'digiuna': 1})
+
+Sostantivo: giornata
+Aggetivi: Counter({'bella': 2, 'sua': 1, 'terribile': 1, 'lunga': 1, 'mezza': 1})
+
+Sostantivo: bene
+Aggetivi: Counter({'gran': 2})
+
+Sostantivo: sole
+Aggetivi: Counter({'cocente': 3, 'bel': 1, 'tiepido': 1, 'nascente': 1, 'calante': 1, 'basso': 1, 'mattutino': 1, 'forte': 1, 'violento': 1, 'gran': 1, 'carico': 1, 'torrido': 1, 'cadente': 1})
+
+Sostantivo: strada
+Aggetivi: Counter({'piana': 2, 'loro': 1, 'bianca': 1, 'lunga': 1, 'intanfata': 1})
+
+Sostantivo: occhi
+Aggetivi: Counter({'chiusi': 6, 'grandi': 6, 'neri': 6, 'suoi': 5, 'azzurri': 3, 'bassi': 3, 'chiari': 3, 'sanguigni': 3, 'sbarrati': 2, 'limpidi': 2, 'verdastri': 2, 'aperti': 1, 'miei': 1, 'attoniti': 1, 'invidiosi': 1, 'intenti': 1, 'vostri': 1, 'belli': 1, 'innocenti': 1, 'opachi': 1, 'stessi': 1, 'avidi': 1, 'immobili': 1, 'verdi': 1, 'propri': 1, 'tuoi': 1, 'grigi': 1, 'scasati': 1, 'nostri': 1, 'cilestrini': 1, 'gialli': 1, 'umidi': 1, 'loro': 1, 'cattivi': 1, 'stanchi': 1, 'buoni': 1, 'lupigni': 1, 'imbambolati': 1, 'ardenti': 1, 'verdognoli': 1, 'pieni': 1, 'lucenti': 1, 'gonfi': 1, 'enormi': 1, 'lacrimosi': 1, 'fermi': 1, 'fissi': 1, 'rossi': 1})
+
+Sostantivo: campagna
+Aggetivi: Counter({'vasta': 2, 'verde': 1, 'funerea': 1, 'Bianca': 1, 'arsa': 1, 'immensa': 1, 'gelata': 1, 'sua': 1})
+
+Sostantivo: signora
+Aggetivi: Counter({'altra': 1, 'stessa': 1})
+
+Sostantivo: denti
+Aggetivi: Counter({'paternostri': 1, 'bianchissimi': 1, 'suoi': 1, 'bianchi': 1, 'forti': 1})
+
+Sostantivo: morti
+Aggetivi: Counter({'suoi': 2, 'stanchi': 1, 'loro': 1})
+
+Sostantivo: casa
+Aggetivi: Counter({'sua': 11, 'mia': 9, 'tua': 2, 'nostra': 2, 'colonica': 1, 'sue': 1, 'grande': 1, 'onorata': 1, 'grassa': 1, 'povera': 1, 'vuota': 1, 'sola': 1, 'antica': 1, 'vostra': 1})
+
+Sostantivo: strade
+Aggetivi: Counter({'carrozzabili': 2, 'piene': 1, 'famose': 1, 'interne': 1, 'lunghe': 1})
+
+Sostantivo: mente
+Aggetivi: Counter({'sua': 2, 'quella': 1, 'mia': 1, 'sue': 1})
+
+Sostantivo: ragazza
+Aggetivi: Counter({'quella': 1, 'romantica': 1, 'ricca': 1, 'brava': 1, 'sua': 1, 'buona': 1})
+
+Sostantivo: colla
+Aggetivi: Counter({'impaziente': 1, 'cazza': 1, 'lunga': 1, 'sua': 1})
+
+Sostantivo: verde
+Aggetivi: Counter({'cupo': 2, 'tenue': 1})
+
+Sostantivo: cielo
+Aggetivi: Counter({'fosco': 2, 'trasparente': 1, 'terso': 1, 'bianco': 1, 'cieco': 1, 'bel': 1, 'crepuscolare': 1})
+
+Sostantivo: linee
+Aggetivi: Counter({'sapienti': 1, 'principali': 1})
+
+Sostantivo: sarta
+Aggetivi: Counter({'vostra': 1, 'rurale': 1})
+
+Sostantivo: scogli
+Aggetivi: Counter({'giganteschi': 1, 'vicini': 1})
+
+Sostantivo: cosa
+Aggetivi: Counter({'sola': 5, 'bella': 3, 'stessa': 2, 'singolare': 1, 'spezzata': 1, 'breve': 1, 'passata': 1, 'piccola': 1, 'tale': 1, 'nuova': 1})
+
+Sostantivo: giornate
+Aggetivi: Counter({'lunghe': 2, 'sue': 1, 'intiere': 1, 'calde': 1})
+
+Sostantivo: lato
+Aggetivi: Counter({'altro': 1, 'destro': 1, 'mio': 1})
+
+Sostantivo: donna
+Aggetivi: Counter({'povera': 1, 'sola': 1, 'giovane': 1, 'discinta': 1, 'bella': 1, 'cara': 1})
+
+Sostantivo: finestra
+Aggetivi: Counter({'nuova': 1, 'grande': 1, 'eguale': 1, 'ferrata': 1})
+
+Sostantivo: ricordi
+Aggetivi: Counter({'lieti': 1, 'son': 1, 'teneri': 1, 'lontani': 1, 'suoi': 1, 'segreti': 1})
+
+Sostantivo: piedi
+Aggetivi: Counter({'vostri': 1, 'robusti': 1, 'nudi': 1})
+
+Sostantivo: cronaca
+Aggetivi: Counter({'elegante': 1, 'galante': 1})
+
+Sostantivo: nome
+Aggetivi: Counter({'suo': 2, 'mio': 2, 'vostro': 1, 'tuo': 1, 'sicuro': 1, 'strano': 1, 'giusto': 1, 'maledetto': 1, 'cristiano': 1})
+
+Sostantivo: carnevale
+Aggetivi: Counter({'eterno': 1, 'furibondo': 1})
+
+Sostantivo: pensiero
+Aggetivi: Counter({'mio': 1, 'vagabondo': 1, 'unico': 1, 'suo': 1, 'gentile': 1})
+
+Sostantivo: diavolo
+Aggetivi: Counter({'porco': 5, 'povero': 4, 'Porco': 1})
+
+Sostantivo: pane
+Aggetivi: Counter({'bianco': 3})
+
+Sostantivo: dialetto
+Aggetivi: Counter({'suo': 2, 'comprensibile': 1, 'schietto': 1})
+
+Sostantivo: mare
+Aggetivi: Counter({'bello': 1, 'immani': 1, 'chiuso': 1, 'nostro': 1})
+
+Sostantivo: bellezza
+Aggetivi: Counter({'vostra': 1, 'sua': 1, 'sicura': 1, 'paesana': 1, 'minacciosa': 1, 'splendida': 1})
+
+Sostantivo: modo
+Aggetivi: Counter({'suo': 3, 'vostro': 1, 'possibile': 1, 'stesso': 1, 'assoluto': 1, 'pacato': 1, 'malo': 1, 'strano': 1})
+
+Sostantivo: gioie
+Aggetivi: Counter({'povere': 1, 'gustosissime': 1})
+
+Sostantivo: lagrime
+Aggetivi: Counter({'amare': 1, 'piccole': 1, 'versate': 1, 'vere': 1})
+
+Sostantivo: città
+Aggetivi: Counter({'grande': 2, 'eretica': 1, 'regia': 1, 'barocche': 1, 'prossima': 1})
+
+Sostantivo: nonno
+Aggetivi: Counter({'suo': 1, 'loro': 1, 'vecchio': 1})
+
+Sostantivo: famiglia
+Aggetivi: Counter({'sua': 1, 'buona': 1, 'cristiana': 1, 'vostra': 1, 'intera': 1, 'esemplare': 1, 'nuova': 1, 'sola': 1})
+
+Sostantivo: vento
+Aggetivi: Counter({'funesto': 1, 'indifferente': 1, 'salmastro': 1})
+
+Sostantivo: fratelli
+Aggetivi: Counter({'suoi': 2, 'maggiori': 2, 'vostri': 1, 'nostri': 1})
+
+Sostantivo: grido
+Aggetivi: Counter({'selvaggio': 1, 'subitaneo': 1, "'hanno": 1, 'cosí': 1, 'umano': 1})
+
+Sostantivo: coraggio
+Aggetivi: Counter({'tetro': 1, 'proprio': 1, 'suo': 1})
+
+Sostantivo: vecchio
+Aggetivi: Counter({'povero': 1, 'amico': 1, 'sbilenco': 1})
+
+Sostantivo: gente
+Aggetivi: Counter({'povera': 5, 'buona': 1, 'armata': 1, 'curiosa': 1, 'altra': 1, 'nuova': 1, 'invidiosa': 1, 'estranea': 1})
+
+Sostantivo: rassegnazione
+Aggetivi: Counter({'coraggiosa': 1, 'cristiana': 1})
+
+Sostantivo: pace
+Aggetivi: Counter({'serena': 1, 'sua': 1, 'santa': 1})
+
+Sostantivo: sentimenti
+Aggetivi: Counter({'miti': 2, 'propri': 2, 'suoi': 1, 'miei': 1, 'buoni': 1, 'vendicativi': 1, 'stessi': 1})
+
+Sostantivo: cavalli
+Aggetivi: Counter({'vostri': 1, 'sudati': 1})
+
+Sostantivo: necessità
+Aggetivi: Counter({'fatale': 1, 'generale': 1, 'inevitabile': 1})
+
+Sostantivo: voce
+Aggetivi: Counter({'pubblica': 6, 'alta': 4, 'pacata': 1, 'nasale': 1, 'sonora': 1, 'cattiva': 1, 'rauca': 1, 'sua': 1, 'catarrosa': 1, 'affettuosa': 1, 'stessa': 1, 'formidabile': 1, 'cupa': 1})
+
+Sostantivo: ora
+Aggetivi: Counter({"mezz'": 6, "buon'": 1, 'sciva': 1, 'insolita': 1, 'sicurissima': 1})
+
+Sostantivo: brusio
+Aggetivi: Counter({'ondeggiante': 1, 'pungente': 1})
+
+Sostantivo: bella
+Aggetivi: Counter({'biondona': 1, 'sua': 1})
+
+Sostantivo: esclusione
+Aggetivi: Counter({'propria': 1, 'assoluta': 1})
+
+Sostantivo: nudità
+Aggetivi: Counter({'mitologiche': 1, 'innocente': 1, 'scandalose': 1})
+
+Sostantivo: fondo
+Aggetivi: Counter({'latteo': 1, 'scuro': 1, 'lieto': 1})
+
+Sostantivo: orazioni
+Aggetivi: Counter({'sue': 1, 'Buone': 1})
+
+Sostantivo: intimità
+Aggetivi: Counter({'collettiva': 1, 'propria': 1})
+
+Sostantivo: malinconia
+Aggetivi: Counter({'metafisica': 1, 'gran': 1})
+
+Sostantivo: solito
+Aggetivi: Counter({'bigliettino': 1, 'suo': 1})
+
+Sostantivo: color
+Aggetivi: Counter({'bigliettino': 1, 'prezioso': 1})
+
+Sostantivo: prepotenza
+Aggetivi: Counter({'ansiosa': 1, 'capricciosa': 1, 'offensiva': 1, 'canonica': 1})
+
+Sostantivo: peso
+Aggetivi: Counter({'suo': 1, 'proprio': 1, 'loro': 1})
+
+Sostantivo: sguardo
+Aggetivi: Counter({'suo': 3, 'implorante': 1, 'circolare': 1, 'ultimo': 1, 'ansioso': 1})
+
+Sostantivo: testa
+Aggetivi: Counter({'sua': 4, 'verso': 2, 'tua': 1, 'piena': 1, "ch'": 1, 'bassa': 1})
+
+Sostantivo: dita
+Aggetivi: Counter({'sue': 1, 'grosse': 1, 'enormi': 1})
+
+Sostantivo: carta
+Aggetivi: Counter({'sudicia': 2, 'velina': 1, 'lucida': 1, 'bollata': 1})
+
+Sostantivo: osservatorio
+Aggetivi: Counter({'suo': 1, 'estero': 1})
+
+Sostantivo: aristocratico
+Aggetivi: Counter({'siciliano': 1, 'liberale': 1})
+
+Sostantivo: quanto
+Aggetivi: Counter({'cattivo': 2, 'potessero': 1, 'ricco': 1, 'doloroso': 1, 'grande': 1})
+
+Sostantivo: pelle
+Aggetivi: Counter({'bianchissima': 1, 'difficoltoso': 1, 'matta': 1, 'cotta': 1})
+
+Sostantivo: capelli
+Aggetivi: Counter({'biondi': 1, 'scomposti': 1, 'pochi': 1, 'lanosi': 1, 'corvini': 1, 'rossastri': 1, 'bianchi': 1, 'grigi': 1, 'irti': 1, 'neri': 1})
+
+Sostantivo: temperamento
+Aggetivi: Counter({'autoritario': 1, 'frivolo': 1})
+
+Sostantivo: idee
+Aggetivi: Counter({'astratte': 1, 'proprie': 1})
+
+Sostantivo: società
+Aggetivi: Counter({'palermitana': 1, 'elettrica': 1})
+
+Sostantivo: siciliano
+Aggetivi: Counter({'pragmatistico': 1, 'amaro': 1})
+
+Sostantivo: spese
+Aggetivi: Counter({'proprie': 1, 'nostre': 1})
+
+Sostantivo: tratto
+Aggetivi: Counter({'sufficienti': 1, 'ultimo': 1, 'lungo': 1})
+
+Sostantivo: analisi
+Aggetivi: Counter({'matematica': 1, 'moderna': 1})
+
+Sostantivo: calcoli
+Aggetivi: Counter({'suoi': 2, 'difficilissimi': 1})
+
+Sostantivo: calma
+Aggetivi: Counter({'dubbia': 1, 'distaccata': 1, 'interiore': 1, 'propria': 1, 'futura': 1})
+
+Sostantivo: aspetto
+Aggetivi: Counter({'suo': 2, 'cimiteriale': 1, 'abusivo': 1, 'sereno': 1, 'tollerabile': 1, 'vero': 1, 'scimmiesco': 1})
+
+Sostantivo: marmo
+Aggetivi: Counter({'grigio': 1, 'rosso': 1})
+
+Sostantivo: odore
+Aggetivi: Counter({'buon': 2, 'loro': 1, 'greve': 1, 'acre': 1, 'speciale': 1, 'particolare': 1})
+
+Sostantivo: piacere
+Aggetivi: Counter({'forte': 1, 'secondario': 1, 'santo': 1, 'malvagio': 1})
+
+Sostantivo: terra
+Aggetivi: Counter({'siciliana': 1, 'sue': 1, 'buona': 1, 'sua': 1, 'promessa': 1})
+
+Sostantivo: giardino
+Aggetivi: Counter({'profumato': 1, 'ampio': 1, 'malinconico': 1, 'immoto': 1})
+
+Sostantivo: soldato
+Aggetivi: Counter({'giovane': 1, 'disgraziato': 1, 'borbonico': 1})
+
+Sostantivo: bandoliere
+Aggetivi: Counter({"gl'": 1, 'bianche': 1})
+
+Sostantivo: intestini
+Aggetivi: Counter({"gl'": 1, 'iridati': 1})
+
+Sostantivo: morte
+Aggetivi: Counter({'sua': 2, 'derelitta': 1, 'unica': 1, 'paurosa': 1, 'amara': 1, 'lenta': 1})
+
+Sostantivo: ombra
+Aggetivi: Counter({'sua': 2, 'cupa': 1, 'perenne': 1})
+
+Sostantivo: cognato
+Aggetivi: Counter({'suo': 4, 'caro': 1, 'Suo': 1, 'proprio': 1})
+
+Sostantivo: sovrano
+Aggetivi: Counter({'singolo': 1, 'autentico': 1})
+
+Sostantivo: idea
+Aggetivi: Counter({'buona': 2, 'monarchica': 1, 'mia': 1, 'nuova': 1})
+
+Sostantivo: siepe
+Aggetivi: Counter({'mezza': 1, 'polverosa': 1, 'fitta': 1})
+
+Sostantivo: attesa
+Aggetivi: Counter({'breve': 1, 'silenziosa': 1, "ch'": 1, 'nuova': 1})
+
+Sostantivo: studio
+Aggetivi: Counter({'privato': 1, 'proprio': 1, 'suo': 1})
+
+Sostantivo: pareti
+Aggetivi: Counter({'imbiancate': 1, 'lisce': 1, 'invisibili': 1, 'grezze': 1})
+
+Sostantivo: carte
+Aggetivi: Counter({'bianche': 1, 'gialle': 1, 'azzurre': 1, 'costituzionali': 1, 'siciliane': 1, 'bollate': 1})
+
+Sostantivo: Regno
+Aggetivi: Counter({'giunta': 1, 'santissimo': 1})
+
+Sostantivo: faccione
+Aggetivi: Counter({'smorto': 1, 'suo': 1})
+
+Sostantivo: giubba
+Aggetivi: Counter({'militare': 1, 'attillata': 1})
+
+Sostantivo: panno
+Aggetivi: Counter({'ruvido': 1, 'nero': 1})
+
+Sostantivo: cara
+Aggetivi: Counter({'patria': 3, 'figlioccia': 1})
+
+Sostantivo: ferita
+Aggetivi: Counter({'gloriosa': 1, 'propria': 1})
+
+Sostantivo: pe
+Aggetivi: Counter({'giovane': 1, 'precedenti': 1})
+
+Sostantivo: frequentazioni
+Aggetivi: Counter({'cattive': 2})
+
+Sostantivo: nipote
+Aggetivi: Counter({'suo': 2, 'tuo': 1, 'Tuo': 1, 'devotissimo': 1, 'impetuosa': 1, 'mio': 1})
+
+Sostantivo: capitale
+Aggetivi: Counter({'piccola': 1, 'augusta': 1, 'piccolo': 1})
+
+Sostantivo: colpi
+Aggetivi: Counter({'secchi': 1, 'infallibili': 1})
+
+Sostantivo: posto
+Aggetivi: Counter({'suo': 3, 'buon': 2, 'proprio': 1, 'nostro': 1, 'tonante': 1, 'identico': 1, 'loro': 1, 'solo': 1, 'mio': 1})
+
+Sostantivo: fianchi
+Aggetivi: Counter({'argentei': 1, 'loro': 1})
+
+Sostantivo: Gattopardo
+Aggetivi: Counter({'danzante': 1, 'sorridente': 1, 'baffuto': 1, 'autentico': 1})
+
+Sostantivo: collera
+Aggetivi: Counter({'sua': 2, 'grande': 1, 'rumorosa': 1, 'divina': 1})
+
+Sostantivo: figlio
+Aggetivi: Counter({'mio': 7, 'suo': 4, 'vostro': 3, 'sopravvissuto': 1, 'altro': 1, 'maggiore': 1, 'nascituro': 1})
+
+Sostantivo: passaggio
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: palpebre
+Aggetivi: Counter({'semichiuse': 1, 'gravi': 1})
+
+Sostantivo: maschi
+Aggetivi: Counter({'sottili': 1, 'soli': 1})
+
+Sostantivo: giorno
+Aggetivi: Counter({'bel': 2, 'altro': 1, 'seguente': 1, 'stesso': 1, 'intero': 1})
+
+Sostantivo: lettera
+Aggetivi: Counter({'anonima': 3, 'lunga': 2, 'fredda': 1, 'urgente': 1, 'sua': 1, 'nuova': 1})
+
+Sostantivo: salute
+Aggetivi: Counter({'propria': 1, 'nostra': 1})
+
+Sostantivo: vita
+Aggetivi: Counter({'sua': 9, 'mia': 3, 'loro': 2, 'modesta': 1, 'salva': 1, 'propria': 1, 'privata': 1, 'nostra': 1, 'stessa': 1, 'infame': 1, 'lunga': 1, 'presente': 1})
+
+Sostantivo: mano
+Aggetivi: Counter({'tesa': 2, 'armata': 2, 'infantile': 1, 'grossa': 1, 'possente': 1, 'invisibile': 1, 'tremolante': 1})
+
+Sostantivo: avventura
+Aggetivi: Counter({'galante': 1, 'bizzarra': 1})
+
+Sostantivo: rango
+Aggetivi: Counter({'basso': 1, 'sufficiente': 1})
+
+Sostantivo: uomini
+Aggetivi: Counter({'loro': 2, 'alti': 1, 'onesti': 1, 'miserabili': 1, 'rispettati': 1, 'politici': 1, 'suoi': 1, 'affaccendati': 1, 'accorti': 1})
+
+Sostantivo: mento
+Aggetivi: Counter({'suo': 1, 'rotondo': 1})
+
+Sostantivo: passo
+Aggetivi: Counter({'passo': 3, 'penitenziale': 1, 'poderoso': 1, 'vigoroso': 1, 'prudente': 1, 'buon': 1})
+
+Sostantivo: crisi
+Aggetivi: Counter({'sue': 2, 'isterica': 1})
+
+Sostantivo: villa
+Aggetivi: Counter({'semidiruta': 1, 'salina': 1, 'vicina': 1})
+
+Sostantivo: Principe
+Aggetivi: Counter({'irritabile': 1, 'suo': 1, 'favolosi': 1})
+
+Sostantivo: sé
+Aggetivi: Counter({'stesso': 2, 'stessa': 1})
+
+Sostantivo: seta
+Aggetivi: Counter({'episcopale': 1, 'rosso': 1, 'nera': 1})
+
+Sostantivo: attrattiva
+Aggetivi: Counter({'esile': 1, 'possente': 1})
+
+Sostantivo: visite
+Aggetivi: Counter({'volute': 1, 'occasionali': 1})
+
+Sostantivo: colpa
+Aggetivi: Counter({'vera': 1, 'remota': 1, 'sua': 1})
+
+Sostantivo: tempi
+Aggetivi: Counter({'ultimi': 2, 'sconclusionati': 1, 'Brutti': 1, 'gloriosi': 1, 'loro': 1, 'brutti': 1, 'miei': 1})
+
+Sostantivo: pensieri
+Aggetivi: Counter({'suoi': 5, 'politici': 1, 'altri': 1, 'propri': 1, 'stessi': 1})
+
+Sostantivo: pene
+Aggetivi: Counter({'sue': 2, 'proprie': 1})
+
+Sostantivo: mondo
+Aggetivi: Counter({'altro': 2, 'durevole': 1, 'vecchio': 1, 'nuovo': 1, 'remoto': 1, 'suo': 1})
+
+Sostantivo: minaccia
+Aggetivi: Counter({'silenziosa': 1, 'spaventosa': 1, 'ultima': 1})
+
+Sostantivo: fuochi
+Aggetivi: Counter({'malvagi': 1, 'colorati': 1, 'ultimi': 1})
+
+Sostantivo: Palermo
+Aggetivi: Counter({'vicina': 1, 'torva': 1})
+
+Sostantivo: case
+Aggetivi: Counter({'sue': 2, 'abbandonate': 1, 'perdute': 1, 'popolari': 1, 'colonica': 1, 'vostra': 1, 'grandi': 1, 'deserte': 1})
+
+Sostantivo: mole
+Aggetivi: Counter({'smisurata': 1, 'sua': 1})
+
+Sostantivo: conventi
+Aggetivi: Counter({'ricchi': 2, 'nobili': 1, 'plebei': 1})
+
+Sostantivo: carattere
+Aggetivi: Counter({'suo': 1, 'solenne': 1, 'violento': 1})
+
+Sostantivo: decoro
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: luce
+Aggetivi: Counter({'frenetica': 1, 'grande': 1, 'cortese': 1, 'gialla': 1, 'grigia': 1, 'crepuscolare': 1, 'gelida': 1, 'cruda': 1, 'opaca': 1, 'gran': 1})
+
+Sostantivo: stimolo
+Aggetivi: Counter({'sensuale': 1, 'fisico': 1})
+
+Sostantivo: posti
+Aggetivi: Counter({'altri': 1, 'nuovo': 1})
+
+Sostantivo: quartiere
+Aggetivi: Counter({'malfamato': 1, 'nostro': 1})
+
+Sostantivo: casette
+Aggetivi: Counter({'basse': 1, 'povere': 1})
+
+Sostantivo: porto
+Aggetivi: Counter({'vecchio': 1, 'nuovo': 1})
+
+Sostantivo: affetto
+Aggetivi: Counter({'umano': 1, 'vecchio': 1, 'ironico': 1})
+
+Sostantivo: guai
+Aggetivi: Counter({'maggiori': 1, 'grossi': 1, 'suoi': 1, 'neri': 1})
+
+Sostantivo: uomo
+Aggetivi: Counter({'biondo': 6, 'bruno': 3, 'buon': 2, 'simile': 2, 'ragionevole': 2, 'debole': 1, 'vigoroso': 1, 'ambizioso': 1, 'scomparso': 1, 'tranquillo': 1, 'pieno': 1, 'grasso': 1, 'duro': 1, 'capace': 1, 'eccezionale': 1, 'responsabile': 1, 'interiore': 1})
+
+Sostantivo: emozione
+Aggetivi: Counter({'maggiore': 1, 'propria': 1, 'improvvisa': 1})
+
+Sostantivo: situazione
+Aggetivi: Counter({'politica': 2, 'strana': 1})
+
+Sostantivo: momenti
+Aggetivi: Counter({'omologhi': 1, 'suoi': 1})
+
+Sostantivo: carne
+Aggetivi: Counter({'giovane': 1, 'tua': 1})
+
+Sostantivo: camera
+Aggetivi: Counter({'sua': 3, 'tua': 2, 'matrimoniale': 1, 'rossa': 1, 'chiusa': 1, 'mia': 1, 'vasta': 1, 'altra': 1})
+
+Sostantivo: Stelluccia
+Aggetivi: Counter({'mia': 2})
+
+Sostantivo: testone
+Aggetivi: Counter({'pesante': 1, 'lanoso': 1})
+
+Sostantivo: volto
+Aggetivi: Counter({'magro': 1, 'suo': 1, 'arguto': 1, 'triangolare': 1, 'delicato': 1, 'dolente': 1})
+
+Sostantivo: fessure
+Aggetivi: Counter({'strette': 1, 'acquose': 1})
+
+Sostantivo: espressione
+Aggetivi: Counter({'inaspettata': 1, 'perfetta': 1, 'precisa': 1, 'infantile': 1})
+
+Sostantivo: scena
+Aggetivi: Counter({'crudele': 1, 'commovente': 1, 'imprevista': 1})
+
+Sostantivo: Tancredi
+Aggetivi: Counter({'stesso': 2, 'suo': 1})
+
+Sostantivo: Paolo
+Aggetivi: Counter({'suo': 1, 'certo': 1})
+
+Sostantivo: colori
+Aggetivi: Counter({'stridenti': 1, 'vivaci': 1})
+
+Sostantivo: chiuse
+Aggetivi: Counter({'persiane': 1, 'grandi': 1})
+
+Sostantivo: cornici
+Aggetivi: Counter({'nere': 1, 'loro': 1})
+
+Sostantivo: montagne
+Aggetivi: Counter({'gemelle': 1, 'scoscese': 1})
+
+Sostantivo: pianura
+Aggetivi: Counter({'frumentaria': 1, 'verdeggiante': 1, 'immensa': 1})
+
+Sostantivo: contadini
+Aggetivi: Counter({'operosi': 1, 'ubriachi': 1})
+
+Sostantivo: palazzo
+Aggetivi: Counter({'suo': 4, 'proprio': 1})
+
+Sostantivo: cocchi
+Aggetivi: Counter({'scarlatti': 1, 'dorati': 1})
+
+Sostantivo: arte
+Aggetivi: Counter({'rustica': 1, 'innata': 1})
+
+Sostantivo: diritti
+Aggetivi: Counter({'feudali': 1, 'propri': 1})
+
+Sostantivo: vino
+Aggetivi: Counter({'vecchio': 1, 'mio': 1, 'fresco': 1})
+
+Sostantivo: proprio
+Aggetivi: Counter({'fine': 1, 'tonante': 1, 'suo': 1})
+
+Sostantivo: era
+Aggetivi: Counter({"ch'": 3, 'fine': 1, 'prevista': 1, 'sociale': 1, 'gelida': 1, 'bancata': 1, 'placido': 1, 'Interessante': 1, 'Curioso': 1, 'cornuto': 1, 'curioso': 1, 'stenza': 1, 'giusto': 1, 'fiera': 1, 'ragazzina': 1, 'giallastra': 1, 'cosí': 1, 'viceconsole': 1, 'vecchia': 1})
+
+Sostantivo: oli
+Aggetivi: Counter({'essenziali': 2})
+
+Sostantivo: piani
+Aggetivi: Counter({'incliнnati': 1, 'scorrevoli': 1, 'superiori': 1})
+
+Sostantivo: parte
+Aggetivi: Counter({'sola': 3, 'maggior': 3, 'gran': 2, 'altra': 2, 'sua': 2, 'buona': 1, 'infinitesimale': 1, 'loro': 1, 'ultima': 1, 'tua': 1})
+
+Sostantivo: cuore
+Aggetivi: Counter({'suo': 3, 'umano': 3, 'mio': 2, 'loro': 2, 'buon': 2, 'paterno': 1})
+
+Sostantivo: Re
+Aggetivi: Counter({'povero': 1, 'veri': 1, 'legittimo': 1, 'suo': 1})
+
+Sostantivo: numero
+Aggetivi: Counter({'recente': 1, 'minore': 1, 'buon': 1, 'civico': 1, 'novantasette': 1, 'gran': 1})
+
+Sostantivo: Sicilia
+Aggetivi: Counter({'intera': 3, 'nostra': 2, 'pastorale': 1, 'mezza': 1})
+
+Sostantivo: frase
+Aggetivi: Counter({'magica': 1, 'italiana': 1})
+
+Sostantivo: velluto
+Aggetivi: Counter({'rigato': 1, 'nuovo': 1})
+
+Sostantivo: assenza
+Aggetivi: Counter({'sua': 3, 'tua': 1})
+
+Sostantivo: magazzino
+Aggetivi: Counter({'suo': 1, 'grande': 1})
+
+Sostantivo: ragazzi
+Aggetivi: Counter({'arditi': 1, 'suoi': 1, 'altri': 1})
+
+Sostantivo: fatti
+Aggetivi: Counter({'propri': 1, 'gloriosi': 1, 'diversi': 1})
+
+Sostantivo: merito
+Aggetivi: Counter({'solo': 1, 'suo': 1})
+
+Sostantivo: bestia
+Aggetivi: Counter({'povera': 5, 'mala': 1, 'feroce': 1})
+
+Sostantivo: sensi
+Aggetivi: Counter({'riposti': 1, 'nostri': 1})
+
+Sostantivo: furia
+Aggetivi: Counter({'francese': 1, 'falsa': 1, 'inattesa': 1})
+
+Sostantivo: cortesia
+Aggetivi: Counter({'innata': 1, 'inespugnabile': 1})
+
+Sostantivo: pelo
+Aggetivi: Counter({'rosso': 1, 'biondo': 1, 'lungo': 1})
+
+Sostantivo: figlia
+Aggetivi: Counter({'sua': 6, 'mia': 5, 'vostra': 2, 'Tua': 1, 'ventenne': 1, 'rispettosa': 1})
+
+Sostantivo: memoria
+Aggetivi: Counter({'sua': 1, 'lunga': 1})
+
+Sostantivo: caffè
+Aggetivi: Counter({'forte': 1, 'leggero': 1, 'buon': 1})
+
+Sostantivo: formule
+Aggetivi: Counter({'algebriche': 1, 'sue': 1})
+
+Sostantivo: figura
+Aggetivi: Counter({'brutta': 1, 'ridicola': 1})
+
+Sostantivo: peccato
+Aggetivi: Counter({'mortale': 3})
+
+Sostantivo: azioni
+Aggetivi: Counter({'vostre': 1, 'cariche': 1})
+
+Sostantivo: bellezze
+Aggetivi: Counter({'proprie': 1, 'vostre': 1})
+
+Sostantivo: colore
+Aggetivi: Counter({'puro': 1, 'dorato': 1, 'solo': 1})
+
+Sostantivo: foga
+Aggetivi: Counter({'sua': 1, 'genetica': 1})
+
+Sostantivo: volontà
+Aggetivi: Counter({'singole': 1, 'paterna': 1})
+
+Sostantivo: immobilità
+Aggetivi: Counter({'servile': 1, 'sue': 1})
+
+Sostantivo: sogni
+Aggetivi: Counter({'violenti': 1, 'penosi': 1, 'inquieti': 1})
+
+Sostantivo: terre
+Aggetivi: Counter({'vostre': 1, 'sue': 1, 'nostre': 1, 'aride': 1, 'loro': 1})
+
+Sostantivo: Padre
+Aggetivi: Counter({'infelice': 1, 'caro': 1})
+
+Sostantivo: fiato
+Aggetivi: Counter({'grosso': 2})
+
+Sostantivo: dolore
+Aggetivi: Counter({'sincero': 1, 'attonito': 1, 'gran': 1})
+
+Sostantivo: bontà
+Aggetivi: Counter({'indifferente': 1, 'ritegnosa': 1, 'incorreggibile': 1, 'sorridente': 1})
+
+Sostantivo: attività
+Aggetivi: Counter({'sua': 2})
+
+Sostantivo: aria
+Aggetivi: Counter({'sospettosa': 2, 'seria': 1, 'assorta': 1, 'inerte': 1, 'supplichevole': 1, 'altra': 1, 'burbera': 1})
+
+Sostantivo: realtà
+Aggetivi: Counter({'mobile': 1, 'sua': 1})
+
+Sostantivo: figli
+Aggetivi: Counter({'nostri': 1, 'sbilenchi': 1, 'propri': 1, 'cari': 1, 'miei': 1})
+
+Sostantivo: abitudine
+Aggetivi: Counter({'lunga': 1, 'antica': 1})
+
+Sostantivo: umore
+Aggetivi: Counter({'disilluso': 1, 'ottimo': 1})
+
+Sostantivo: ragione
+Aggetivi: Counter({'umana': 1, 'plice': 1, 'sua': 1})
+
+Sostantivo: mattina
+Aggetivi: Counter({'quella': 1, 'seguente': 1, 'santa': 1})
+
+Sostantivo: tutto
+Aggetivi: Counter({'liscio': 1, 'pronta': 1})
+
+Sostantivo: forza
+Aggetivi: Counter({'scarsa': 1, 'tua': 1, 'viva': 1, 'sua': 1})
+
+Sostantivo: spiegazioni
+Aggetivi: Counter({'tecniche': 1, 'date': 1})
+
+Sostantivo: fede
+Aggetivi: Counter({'mala': 1, 'superstite': 1, 'buona': 1})
+
+Sostantivo: diagramma
+Aggetivi: Counter({'pulito': 1, 'unico': 1})
+
+Sostantivo: forma
+Aggetivi: Counter({'sua': 1, 'meditatissima': 1, 'unica': 1})
+
+Sostantivo: guarnigione
+Aggetivi: Counter({'rossa': 1, 'multicolore': 1})
+
+Sostantivo: ragazzo
+Aggetivi: Counter({'povero': 3, 'suo': 2, 'sedicenne': 1, 'servizievole': 1, 'giudizioso': 1, 'seminudo': 1})
+
+Sostantivo: caro
+Aggetivi: Counter({'nostro': 1, 'giovane': 1, 'mio': 1})
+
+Sostantivo: bicchiere
+Aggetivi: Counter({'pieno': 1, 'bel': 1})
+
+Sostantivo: stanza
+Aggetivi: Counter({'vicina': 1, 'immensa': 1, 'grande': 1, 'vuota': 1})
+
+Sostantivo: muso
+Aggetivi: Counter({'inquirente': 1, 'attonito': 1})
+
+Sostantivo: banda
+Aggetivi: Counter({'disbarcata': 1, 'municipale': 1, 'armata': 1, 'sua': 1})
+
+Sostantivo: truppe
+Aggetivi: Counter({'reali': 1, 'ammutinate': 1})
+
+Sostantivo: PARTE
+Aggetivi: Counter({'SECONDA': 1, 'TERZA': 1})
+
+Sostantivo: polvere
+Aggetivi: Counter({'bianca': 1, 'soffocante': 1})
+
+Sostantivo: manifestazione
+Aggetivi: Counter({'sonora': 1, 'esosa': 1, 'politica': 1})
+
+Sostantivo: alberi
+Aggetivi: Counter({'assetati': 1, 'madidi': 1})
+
+Sostantivo: fabbricato
+Aggetivi: Counter({'gran': 2, 'enorme': 1})
+
+Sostantivo: porta
+Aggetivi: Counter({'solidissima': 1, 'centrale': 1, 'stessa': 1})
+
+Sostantivo: pozzo
+Aggetivi: Counter({'profondo': 1, 'premuroso': 1})
+
+Sostantivo: ragazze
+Aggetivi: Counter({'stanche': 1, 'belle': 1})
+
+Sostantivo: fattoria
+Aggetivi: Counter({"mezz'": 1, 'grande': 1})
+
+Sostantivo: camicia
+Aggetivi: Counter({'rossa': 2, 'inamidata': 2, 'ruvida': 1, 'sola': 1})
+
+Sostantivo: luoghi
+Aggetivi: Counter({'noti': 1, 'ameni': 1})
+
+Sostantivo: passeggiate
+Aggetivi: Counter({'passate': 1, 'lunghe': 1, 'loro': 1, 'sue': 1})
+
+Sostantivo: anni
+Aggetivi: Counter({'scorsi': 2, 'vuoti': 1, 'lunghi': 1})
+
+Sostantivo: giorni
+Aggetivi: Counter({'lunghi': 2, 'primissimi': 1, 'bei': 1, 'altri': 1})
+
+Sostantivo: senso
+Aggetivi: Counter({'certo': 1, 'lascivo': 1, 'grande': 1, 'buon': 1, 'profondo': 1, 'scottante': 1})
+
+Sostantivo: polizia
+Aggetivi: Counter({'sconfitta': 1, 'nuova': 1})
+
+Sostantivo: promesse
+Aggetivi: Counter({'sue': 1, 'loro': 1})
+
+Sostantivo: stivali
+Aggetivi: Counter({'lucidi': 1, 'suoi': 1})
+
+Sostantivo: prete
+Aggetivi: Counter({'eccellente': 1, 'piccolo': 1, 'ladro': 1})
+
+Sostantivo: stato
+Aggetivi: Counter({'suo': 1, 'preciso': 1, 'adamitico': 1, 'attuale': 1, 'greco': 1, 'mio': 1})
+
+Sostantivo: previsioni
+Aggetivi: Counter({'proprie': 1, 'sue': 1})
+
+Sostantivo: capitano
+Aggetivi: Counter({'giovane': 1, 'stesse': 1, 'curioso': 1})
+
+Sostantivo: persone
+Aggetivi: Counter({'influenti': 1, 'rare': 1, 'anziane': 1, 'sole': 1, 'bravissime': 1, 'estranee': 1, 'singole': 1})
+
+Sostantivo: braccia
+Aggetivi: Counter({'rosse': 1, 'scarne': 1, 'lunghe': 1, 'nude': 1})
+
+Sostantivo: tracce
+Aggetivi: Counter({'vaghe': 1, 'palesi': 1})
+
+Sostantivo: ondulazioni
+Aggetivi: Counter({'interminabili': 1, 'soavi': 1})
+
+Sostantivo: causa
+Aggetivi: Counter({'vera': 1, 'princiнpale': 1})
+
+Sostantivo: acque
+Aggetivi: Counter({'sue': 1, 'tiepide': 1, 'nere': 1})
+
+Sostantivo: cavallo
+Aggetivi: Counter({'suo': 1, 'Vecchio': 1, 'gran': 1})
+
+Sostantivo: saluto
+Aggetivi: Counter({'caro': 1, 'estremo': 1, 'suo': 1})
+
+Sostantivo: nuova
+Aggetivi: Counter({'tricolore': 1, 'proprieнtà': 1, 'nuova': 1, 'raccolta': 1})
+
+Sostantivo: carica
+Aggetivi: Counter({'sua': 1, 'energetica': 1})
+
+Sostantivo: fiori
+Aggetivi: Counter({'colti': 1, 'vividi': 1})
+
+Sostantivo: giovanotto
+Aggetivi: Counter({'spregiudicato': 1, 'premuroso': 1, 'grande': 1, 'bel': 1})
+
+Sostantivo: ammirazione
+Aggetivi: Counter({'rumorosa': 1, 'sua': 1, 'bruta': 1})
+
+Sostantivo: giro
+Aggetivi: Counter({'sé': 1, 'bel': 1})
+
+Sostantivo: destra
+Aggetivi: Counter({'sua': 3})
+
+Sostantivo: turbamento
+Aggetivi: Counter({'gran': 1, 'crescente': 1})
+
+Sostantivo: scopo
+Aggetivi: Counter({'solo': 1, 'delittuoso': 1})
+
+Sostantivo: capo
+Aggetivi: Counter({'biondo': 1, 'sonnacchioso': 1, 'loro': 1, 'lanoso': 1})
+
+Sostantivo: prestigio
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: ingresso
+Aggetivi: Counter({'principale': 1, 'suo': 1})
+
+Sostantivo: manifestazioni
+Aggetivi: Counter({'nuove': 1, 'indecorose': 1})
+
+Sostantivo: scuola
+Aggetivi: Counter({'rigidissima': 1, 'sua': 1})
+
+Sostantivo: episodi
+Aggetivi: Counter({'spettacolosi': 1, 'minuti': 1})
+
+Sostantivo: ordine
+Aggetivi: Counter({'perfetto': 1, 'nuovo': 1, 'sociale': 1})
+
+Sostantivo: fuoco
+Aggetivi: Counter({'loro': 1, 'bel': 1})
+
+Sostantivo: sicurezza
+Aggetivi: Counter({'serena': 1, 'certa': 1, 'pubblica': 1})
+
+Sostantivo: anno
+Aggetivi: Counter({'altro': 1, 'scorso': 1, 'nuovo': 1})
+
+Sostantivo: mignolo
+Aggetivi: Counter({'sinistro': 1, 'destro': 1})
+
+Sostantivo: fatto
+Aggetivi: Counter({'grande': 2, 'suo': 2, 'stesso': 1, 'criminale': 1, 'cattiva': 1, 'nudo': 1, 'semplice': 1, 'naturale': 1})
+
+Sostantivo: proprietà
+Aggetivi: Counter({'sua': 3, 'piccola': 1, 'sue': 1})
+
+Sostantivo: pietra
+Aggetivi: Counter({'ricercatissima': 1, 'tenera': 1, 'focaja': 1, "ch'": 1})
+
+Sostantivo: spugna
+Aggetivi: Counter({'enorme': 2})
+
+Sostantivo: abito
+Aggetivi: Counter({'sacerdotale': 1, 'bleu': 1})
+
+Sostantivo: stizza
+Aggetivi: Counter({'propria': 1, 'sorda': 1, 'sua': 1, 'acre': 1})
+
+Sostantivo: lembo
+Aggetivi: Counter({'staccato': 2, 'superiore': 1, 'inferiore': 1})
+
+Sostantivo: animo
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: frasi
+Aggetivi: Counter({'interminabili': 1, 'stesse': 1})
+
+Sostantivo: braccio
+Aggetivi: Counter({'alzato': 1, 'sanguinante': 1})
+
+Sostantivo: persona
+Aggetivi: Counter({'canuta': 1, 'identificabile': 1, 'gentile': 1})
+
+Sostantivo: disgrazia
+Aggetivi: Counter({'mia': 1, 'sua': 1})
+
+Sostantivo: petto
+Aggetivi: Counter({'imperlato': 1, 'prepotente': 1, 'cavo': 1, 'colmo': 1})
+
+Sostantivo: proposte
+Aggetivi: Counter({'precise': 1, 'solo': 1})
+
+Sostantivo: rancore
+Aggetivi: Counter({'nuovo': 1, 'suo': 1})
+
+Sostantivo: mezzo
+Aggetivi: Counter({'mio': 1, 'addormentato': 1, 'stolida': 1, 'semplicissimo': 1})
+
+Sostantivo: tendenza
+Aggetivi: Counter({'naturale': 1, 'invincibile': 1})
+
+Sostantivo: linguaggio
+Aggetivi: Counter({'demagogico': 1, 'altro': 1})
+
+Sostantivo: scale
+Aggetivi: Counter({'sdrucciolevoli': 1, 'sue': 1})
+
+Sostantivo: raggi
+Aggetivi: Counter({'suoi': 1, 'loro': 1})
+
+Sostantivo: mostri
+Aggetivi: Counter({'marini': 1, 'rustici': 1})
+
+Sostantivo: pesche
+Aggetivi: Counter({'forestiere': 2})
+
+Sostantivo: malizia
+Aggetivi: Counter({'affettuosa': 2, 'azzurrina': 1, 'ingenua': 1})
+
+Sostantivo: scuro
+Aggetivi: Counter({'bleu': 1, 'informe': 1})
+
+Sostantivo: confidenze
+Aggetivi: Counter({'amorose': 1, 'sue': 1})
+
+Sostantivo: sfumature
+Aggetivi: Counter({'rosee': 1, 'diverse': 1})
+
+Sostantivo: delicatezza
+Aggetivi: Counter({'famosa': 1, 'esasperata': 1, 'massima': 1})
+
+Sostantivo: lavoro
+Aggetivi: Counter({'vostro': 2, 'proprio': 1, 'intenso': 1, 'pulito': 1})
+
+Sostantivo: amori
+Aggetivi: Counter({'legali': 1, 'meditati': 1})
+
+Sostantivo: soste
+Aggetivi: Counter({'lunghe': 1, 'improvvise': 1})
+
+Sostantivo: orizzonte
+Aggetivi: Counter({'serale': 1, 'ceruleo': 1, 'ampio': 1})
+
+Sostantivo: carichi
+Aggetivi: Counter({'pendenti': 2, 'nuvoloni': 1})
+
+Sostantivo: invitati
+Aggetivi: Counter({'ultimi': 1, 'siciliani': 1})
+
+Sostantivo: risata
+Aggetivi: Counter({'convulsa': 1, 'sua': 1})
+
+Sostantivo: avvenimento
+Aggetivi: Counter({'previsto': 1, 'particolare': 1, 'reale': 1})
+
+Sostantivo: proprietario
+Aggetivi: Counter({'massimo': 1, 'piccolo': 1})
+
+Sostantivo: diritto
+Aggetivi: Counter({'buon': 1, 'mio': 1})
+
+Sostantivo: colletto
+Aggetivi: Counter({'vasto': 1, 'inamidato': 1})
+
+Sostantivo: Angelica
+Aggetivi: Counter({'mia': 1, 'bella': 1})
+
+Sostantivo: colpo
+Aggetivi: Counter({'inferto': 1, 'doppio': 1, 'tirato': 1, 'gran': 1})
+
+Sostantivo: grazia
+Aggetivi: Counter({'femminile': 1, 'volgare': 1, 'contegnosa': 1, 'maliziosa': 1})
+
+Sostantivo: accento
+Aggetivi: Counter({'girgentano': 1, 'pretto': 1})
+
+Sostantivo: sorpresa
+Aggetivi: Counter({'lieta': 1, 'ultima': 1})
+
+Sostantivo: sollievo
+Aggetivi: Counter({'loro': 1, 'grande': 1, 'gran': 1})
+
+Sostantivo: abilità
+Aggetivi: Counter({'propria': 1, 'sua': 1})
+
+Sostantivo: aura
+Aggetivi: Counter({'sensuale': 2})
+
+Sostantivo: femmina
+Aggetivi: Counter({'buona': 3, 'bellissima': 1})
+
+Sostantivo: lingua
+Aggetivi: Counter({'pessima': 1, 'sua': 1, 'ignota': 1, 'francese': 1, 'propria': 1})
+
+Sostantivo: volte
+Aggetivi: Counter({'altre': 1, 'efficace': 1, 'rare': 1})
+
+Sostantivo: carriera
+Aggetivi: Counter({'politica': 1, 'sue': 1})
+
+Sostantivo: infatuazione
+Aggetivi: Counter({'evidente': 1, 'sensuale': 1})
+
+Sostantivo: parlatorio
+Aggetivi: Counter({'rozzo': 1, 'afoso': 1})
+
+Sostantivo: sasso
+Aggetivi: Counter({'grosso': 1, 'gran': 1})
+
+Sostantivo: lettere
+Aggetivi: Counter({'anonime': 3, 'famose': 1, 'loro': 1})
+
+Sostantivo: seguito
+Aggetivi: Counter({'suo': 1, 'tuo': 1})
+
+Sostantivo: calore
+Aggetivi: Counter({'inconsueto': 1, 'suo': 1})
+
+Sostantivo: discorsi
+Aggetivi: Counter({'inconsiderati': 1, 'suoi': 1})
+
+Sostantivo: balcone
+Aggetivi: Counter({'grande': 1, 'centrale': 1})
+
+Sostantivo: spalle
+Aggetivi: Counter({'sue': 2, 'cascanti': 1, 'splendide': 1, 'mie': 1})
+
+Sostantivo: ore
+Aggetivi: Counter({'lunghe': 2, 'calde': 1})
+
+Sostantivo: coniglio
+Aggetivi: Counter({'selvatico': 2, 'vivo': 1})
+
+Sostantivo: ancora
+Aggetivi: Counter({'innocentissima': 1, 'incignata': 1, 'vecchia': 1})
+
+Sostantivo: mesi
+Aggetivi: Counter({'ultimi': 1, 'caldi': 1})
+
+Sostantivo: passioni
+Aggetivi: Counter({'altrui': 1, 'umane': 1})
+
+Sostantivo: motivi
+Aggetivi: Counter({'realistici': 1, 'passionali': 1, 'nali': 1, 'personali': 1})
+
+Sostantivo: sentimento
+Aggetivi: Counter({'buffo': 1, 'suo': 1})
+
+Sostantivo: immagine
+Aggetivi: Counter({'insipida': 1, 'propria': 1, 'precisa': 1})
+
+Sostantivo: precauzioni
+Aggetivi: Counter({'verbali': 1, 'solite': 1})
+
+Sostantivo: cassa
+Aggetivi: Counter({'giallina': 1, 'gran': 1})
+
+Sostantivo: posta
+Aggetivi: Counter({'scarsa': 1, 'aerea': 1})
+
+Sostantivo: potere
+Aggetivi: Counter({'vincolatorio': 1, 'cezionale': 1})
+
+Sostantivo: amore
+Aggetivi: Counter({'violento': 1, 'mio': 1})
+
+Sostantivo: compagni
+Aggetivi: Counter({'suoi': 2, 'miei': 1, 'stessi': 1, 'nuovi': 1})
+
+Sostantivo: movimento
+Aggetivi: Counter({'attuale': 1, 'separatista': 1})
+
+Sostantivo: foglio
+Aggetivi: Counter({'cosìcché': 1, 'sottile': 1})
+
+Sostantivo: termini
+Aggetivi: Counter({'moderni': 1, 'irripetibili': 1})
+
+Sostantivo: natura
+Aggetivi: Counter({'sua': 1, 'violenta': 1, 'vendicativa': 1, 'diversa': 1})
+
+Sostantivo: chiarore
+Aggetivi: Counter({'azzurrino': 1, 'fosco': 1})
+
+Sostantivo: somma
+Aggetivi: Counter({'sorpresa': 1, 'pattuita': 1, 'certa': 1})
+
+Sostantivo: faccia
+Aggetivi: Counter({'sua': 3, 'tosta': 1, 'smemorata': 1, 'infantile': 1, 'inespressiva': 1, 'tonda': 1, 'alterata': 1, 'giallastra': 1, 'dura': 1, 'sospettosi': 1, 'bella': 1, 'grondante': 1})
+
+Sostantivo: dorso
+Aggetivi: Counter({'sogguardò': 1, 'nudo': 1})
+
+Sostantivo: pugno
+Aggetivi: Counter({'gran': 2})
+
+Sostantivo: giogaia
+Aggetivi: Counter({'montana': 1, 'lunga': 1})
+
+Sostantivo: stesso
+Aggetivi: Counter({'indifferente': 1, 'affetto': 1})
+
+Sostantivo: elementi
+Aggetivi: Counter({'essenziali': 1, 'passionali': 1})
+
+Sostantivo: peli
+Aggetivi: Counter({'bigi': 1, 'irti': 1})
+
+Sostantivo: bestiola
+Aggetivi: Counter({'agonizzante': 1, 'forastica': 1})
+
+Sostantivo: fuga
+Aggetivi: Counter({'inutile': 1, 'disperata': 1})
+
+Sostantivo: sugheri
+Aggetivi: Counter({'radi': 1, 'grigi': 1})
+
+Sostantivo: filari
+Aggetivi: Counter({'sparuti': 1, 'lunghi': 1})
+
+Sostantivo: occhiata
+Aggetivi: Counter({'ultima': 1, 'rapida': 1, 'sospettosa': 1})
+
+Sostantivo: tela
+Aggetivi: Counter({'bianca': 1, 'fine': 1})
+
+Sostantivo: pratica
+Aggetivi: Counter({'poca': 1, 'lunga': 1})
+
+Sostantivo: maresciallo
+Aggetivi: Counter({'nero': 1, "'e": 1, 'maggiore': 1})
+
+Sostantivo: scuole
+Aggetivi: Counter({'patrie': 1, 'elementari': 1})
+
+Sostantivo: cooperativa
+Aggetivi: Counter({'piccola': 1, 'sua': 1, 'edilizia': 1, 'vostra': 1})
+
+Sostantivo: penali
+Aggetivi: Counter({'precedenti': 2})
+
+Sostantivo: soci
+Aggetivi: Counter({'altri': 1, 'loro': 1})
+
+Sostantivo: barba
+Aggetivi: Counter({'lunga': 2, 'liscia': 1, 'bella': 1, 'prepotente': 1, 'lanosa': 1})
+
+Sostantivo: ufficio
+Aggetivi: Counter({'suo': 4})
+
+Sostantivo: presenza
+Aggetivi: Counter({'sua': 2})
+
+Sostantivo: inquietudine
+Aggetivi: Counter({'mortale': 1, 'sua': 1})
+
+Sostantivo: semenza
+Aggetivi: Counter({'nera': 2})
+
+Sostantivo: fortuna
+Aggetivi: Counter({'nostra': 1, 'gran': 1, 'vera': 1})
+
+Sostantivo: tavolo
+Aggetivi: Counter({'mio': 1, 'suo': 1})
+
+Sostantivo: caso
+Aggetivi: Counter({'vostro': 1, 'nuovo': 1})
+
+Sostantivo: macchine
+Aggetivi: Counter({'sue': 1, 'son': 1})
+
+Sostantivo: pecora
+Aggetivi: Counter({'nera': 2})
+
+Sostantivo: discorso
+Aggetivi: Counter({'suo': 2, 'certo': 1, 'altro': 1})
+
+Sostantivo: associazione
+Aggetivi: Counter({'criminale': 2, 'passa': 1})
+
+Sostantivo: fratello
+Aggetivi: Counter({'mio': 2, 'vostro': 1})
+
+Sostantivo: agnello
+Aggetivi: Counter({'grasso': 1, 'pasquale': 1})
+
+Sostantivo: parti
+Aggetivi: Counter({'nostre': 3, 'sostanziali': 1})
+
+Sostantivo: figlie
+Aggetivi: Counter({'mie': 1, 'vostre': 1})
+
+Sostantivo: messa
+Aggetivi: Counter({'vostra': 1, 'grande': 1})
+
+Sostantivo: giudizio
+Aggetivi: Counter({'netto': 1, 'giusto': 1, 'sereno': 1})
+
+Sostantivo: commercio
+Aggetivi: Counter({'piccolo': 1, 'suo': 1})
+
+Sostantivo: galantuomini
+Aggetivi: Counter({'insospettabili': 1, 'soli': 1})
+
+Sostantivo: cane
+Aggetivi: Counter({'arrabbiato': 2, 'proprio': 1, 'fanatico': 1, 'avvezzo': 1, 'assassino': 1})
+
+Sostantivo: sonno
+Aggetivi: Counter({'suo': 1, 'rotto': 1, 'leggero': 1})
+
+Sostantivo: guizzo
+Aggetivi: Counter({'doloroso': 2})
+
+Sostantivo: paura
+Aggetivi: Counter({'sua': 1, 'sue': 1, 'disperata': 1, 'gran': 1})
+
+Sostantivo: lenzuolo
+Aggetivi: Counter({'freddo': 1, 'gran': 1})
+
+Sostantivo: foglie
+Aggetivi: Counter({'secche': 1, 'larghe': 1})
+
+Sostantivo: filo
+Aggetivi: Counter({'spinato': 3, 'giusto': 1})
+
+Sostantivo: confidenza
+Aggetivi: Counter({'amichevole': 1, 'sua': 1, 'umana': 1, 'estrema': 1})
+
+Sostantivo: volo
+Aggetivi: Counter({'verticale': 1, 'loro': 1, 'breve': 1})
+
+Sostantivo: eccellenza
+Aggetivi: Counter({'sua': 8})
+
+Sostantivo: amico
+Aggetivi: Counter({'mio': 5, 'suo': 5, 'caro': 1})
+
+Sostantivo: vasi
+Aggetivi: Counter({'greci': 2})
+
+Sostantivo: omicidio
+Aggetivi: Counter({'passionale': 2, 'duplice': 1})
+
+Sostantivo: indice
+Aggetivi: Counter({'attivo': 2})
+
+Sostantivo: sedile
+Aggetivi: Counter({'posteriore': 2})
+
+Sostantivo: zia
+Aggetivi: Counter({'tua': 3, 'superiora': 1})
+
+Sostantivo: lampada
+Aggetivi: Counter({'piccola': 1, 'sola': 1})
+
+Sostantivo: sgomento
+Aggetivi: Counter({'improvviso': 2, 'angoscioso': 1})
+
+Sostantivo: momento
+Aggetivi: Counter({'buono': 1, 'strappato': 1})
+
+Sostantivo: genere
+Aggetivi: Counter({'letterario': 1, 'nuovo': 1})
+
+Sostantivo: difetti
+Aggetivi: Counter({'fisici': 2})
+
+Sostantivo: qualità
+Aggetivi: Counter({'ossessiva': 1, 'loro': 1})
+
+Sostantivo: parente
+Aggetivi: Counter({'mio': 3})
+
+Sostantivo: giovane
+Aggetivi: Counter({'buon': 1, 'bel': 1, 'straniero': 1, 'marinajo': 1})
+
+Sostantivo: Livigni
+Aggetivi: Counter({'onorevole': 3})
+
+Sostantivo: mafia
+Aggetivi: Counter({'locale': 1, 'cosiddetta': 1})
+
+Sostantivo: sbirri
+Aggetivi: Counter({'veri': 1, 'nati': 1, 'cattivo': 1})
+
+Sostantivo: dovere
+Aggetivi: Counter({'suo': 1, 'mio': 1})
+
+Sostantivo: chiesa
+Aggetivi: Counter({'santa': 3, 'tutta': 1})
+
+Sostantivo: affari
+Aggetivi: Counter({'propri': 1, 'importanti': 1, 'altrui': 1, 'loro': 1})
+
+Sostantivo: ventiquattrore
+Aggetivi: Counter({'ultime': 2})
+
+Sostantivo: affare
+Aggetivi: Counter({'piccolo': 1, 'certo': 1})
+
+Sostantivo: canto
+Aggetivi: Counter({'suo': 3, 'solitario': 1})
+
+Sostantivo: tradimento
+Aggetivi: Counter({'amaro': 1, 'consumato': 1, 'simile': 1})
+
+Sostantivo: passi
+Aggetivi: Counter({'falsi': 1, 'suoi': 1})
+
+Sostantivo: libertà
+Aggetivi: Counter({'eccezionale': 1, 'sola': 1, 'serena': 1})
+
+Sostantivo: piano
+Aggetivi: Counter({'suo': 1, 'preparato': 1})
+
+Sostantivo: cristiano
+Aggetivi: Counter({'povero': 1, 'buon': 1})
+
+Sostantivo: vendetta
+Aggetivi: Counter({'vile': 1, 'giusta': 1})
+
+Sostantivo: segreto
+Aggetivi: Counter({'mutuo': 1, 'pericoloso': 1})
+
+Sostantivo: proporzioni
+Aggetivi: Counter({'ridotte': 1, 'nazionali': 1})
+
+Sostantivo: piccolo
+Aggetivi: Counter({'proprieta': 1, 'suo': 1})
+
+Sostantivo: statura
+Aggetivi: Counter({'mia': 1, 'gigantesca': 1})
+
+Sostantivo: domanda
+Aggetivi: Counter({'breve': 1, 'ultima': 1})
+
+Sostantivo: storia
+Aggetivi: Counter({'edificante': 1, 'truce': 1})
+
+Sostantivo: falso
+Aggetivi: Counter({'verbale': 3, 'magistrale': 1})
+
+Sostantivo: rivelazione
+Aggetivi: Counter({'tremenda': 1, 'pericolosa': 1})
+
+Sostantivo: opinione
+Aggetivi: Counter({'personale': 1, 'sue': 1})
+
+Sostantivo: offesa
+Aggetivi: Counter({'terribile': 1, 'dolorosa': 1})
+
+Sostantivo: consigli
+Aggetivi: Counter({'buoni': 1, 'precisi': 1})
+
+Sostantivo: Cose
+Aggetivi: Counter({'inutili': 1, 'sentite': 1, 'nere': 1})
+
+Sostantivo: canale
+Aggetivi: Counter({'giusto': 2})
+
+Sostantivo: consiglio
+Aggetivi: Counter({'relativo': 1, 'mio': 1})
+
+Sostantivo: vibrazioni
+Aggetivi: Counter({'lontane': 2})
+
+Sostantivo: esistenza
+Aggetivi: Counter({'nuova': 3, 'sua': 1})
+
+Sostantivo: fotografia
+Aggetivi: Counter({'autentica': 1, 'altra': 1})
+
+Sostantivo: febbre
+Aggetivi: Counter({'lucida': 1, 'gialla': 1})
+
+Sostantivo: alloggio
+Aggetivi: Counter({'suo': 1, 'abusivo': 1})
+
+Sostantivo: giumenta
+Aggetivi: Counter({'vecchia': 1, 'calabrese': 1})
+
+Sostantivo: puledri
+Aggetivi: Counter({'indomiti': 1, 'altri': 1})
+
+Sostantivo: erba
+Aggetivi: Counter({'verde': 1, 'soffice': 1, 'riarsa': 1, 'secca': 1})
+
+Sostantivo: rami
+Aggetivi: Counter({'nudi': 1, 'secchi': 1})
+
+Sostantivo: sere
+Aggetivi: Counter({'belle': 1, 'lunghe': 1})
+
+Sostantivo: mogio
+Aggetivi: Counter({'mogio': 2})
+
+Sostantivo: fazzoletto
+Aggetivi: Counter({'bianco': 2, 'grosso': 1, 'gran': 1, 'tricolore': 1})
+
+Sostantivo: cavalla
+Aggetivi: Counter({'mora': 1, 'superba': 1})
+
+Sostantivo: file
+Aggetivi: Counter({'lunghe': 3})
+
+Sostantivo: roba
+Aggetivi: Counter({'sua': 7, 'bianca': 2, 'loro': 1, 'gran': 1, 'bella': 1, 'mia': 1})
+
+Sostantivo: orecchie
+Aggetivi: Counter({'irrequiete': 1, 'lunghe': 1})
+
+Sostantivo: canzone
+Aggetivi: Counter({'incomprensibile': 1, 'sua': 1})
+
+Sostantivo: diffidenza
+Aggetivi: Counter({'selvaggia': 1, 'contadinesca': 1})
+
+Sostantivo: contadino
+Aggetivi: Counter({'siciliano': 1, 'nero': 1, 'povero': 1})
+
+Sostantivo: serio
+Aggetivi: Counter({'serio': 2, 'giovine': 1})
+
+Sostantivo: casamento
+Aggetivi: Counter({'gran': 2})
+
+Sostantivo: noci
+Aggetivi: Counter({'secolari': 1, 'alti': 1})
+
+Sostantivo: freddo
+Aggetivi: Counter({'gran': 1, 'freddo': 1})
+
+Sostantivo: decotto
+Aggetivi: Counter({'buon': 1, 'preparato': 1})
+
+Sostantivo: massaia
+Aggetivi: Counter({'brava': 2})
+
+Sostantivo: berretta
+Aggetivi: Counter({'sua': 1, 'nera': 1})
+
+Sostantivo: puledro
+Aggetivi: Counter({'smarrito': 1, 'inerte': 1})
+
+Sostantivo: cesta
+Aggetivi: Counter({'ultima': 1, 'gran': 1})
+
+Sostantivo: Alfio
+Aggetivi: Counter({'stesso': 2})
+
+Sostantivo: animali
+Aggetivi: Counter({'fermi': 1, 'suoi': 1})
+
+Sostantivo: rumore
+Aggetivi: Counter({'fiacco': 1, 'lieve': 1})
+
+Sostantivo: carni
+Aggetivi: Counter({'vive': 1, 'bianche': 1})
+
+Sostantivo: berrette
+Aggetivi: Counter({'bianche': 2})
+
+Sostantivo: garbo
+Aggetivi: Counter({'bel': 1, 'consueto': 1})
+
+Sostantivo: disgrazie
+Aggetivi: Counter({'sue': 1, 'continue': 1})
+
+Sostantivo: pena
+Aggetivi: Counter({'maggior': 1, 'sua': 1, 'mia': 1})
+
+Sostantivo: pecore
+Aggetivi: Counter({'sue': 2})
+
+Sostantivo: pascoli
+Aggetivi: Counter({'migliori': 1, 'deserti': 1, 'lontani': 1})
+
+Sostantivo: macchie
+Aggetivi: Counter({'folte': 1, 'immense': 1, 'fitte': 1})
+
+Sostantivo: pecoraio
+Aggetivi: Counter({'povero': 2})
+
+Sostantivo: Mara
+Aggetivi: Counter({'sua': 2})
+
+Sostantivo: camicie
+Aggetivi: Counter({'nuove': 1, 'rosse': 1})
+
+Sostantivo: campi
+Aggetivi: Counter({'immensi': 2, 'biondi': 1, 'pallida': 1, 'suoi': 1, 'giallastri': 1})
+
+Sostantivo: forbice
+Aggetivi: Counter({'fine': 1, 'lunga': 1})
+
+Sostantivo: giara
+Aggetivi: Counter({'bella': 2, 'nuova': 2, 'mia': 1})
+
+Sostantivo: cappellaccio
+Aggetivi: Counter({'bianco': 2})
+
+Sostantivo: rabbia
+Aggetivi: Counter({'furibonda': 1, 'cocente': 1})
+
+Sostantivo: mastice
+Aggetivi: Counter({'miracoloso': 1, 'suo': 1, 'Pago': 1, 'tuo': 1, 'solo': 1})
+
+Sostantivo: giunture
+Aggetivi: Counter({'storpie': 2})
+
+Sostantivo: cotone
+Aggetivi: Counter({'rosso': 2})
+
+Sostantivo: Caso
+Aggetivi: Counter({'nuovo': 1, 'eccezionale': 1})
+
+Sostantivo: prezzo
+Aggetivi: Counter({'suo': 1, 'stesso': 1})
+
+Sostantivo: festa
+Aggetivi: Counter({'quella': 1, 'sua': 1})
+
+Sostantivo: labbra
+Aggetivi: Counter({'fresche': 1, 'sue': 1, 'accese': 1, 'mie': 1, 'arse': 1, 'ardenti': 1})
+
+Sostantivo: figliuoli
+Aggetivi: Counter({'miei': 3, 'suoi': 3, 'loro': 1, 'vostri': 1, 'lontani': 1, 'veri': 1, 'piano': 1})
+
+Sostantivo: olive
+Aggetivi: Counter({'messe': 2, 'sue': 1})
+
+Sostantivo: genero
+Aggetivi: Counter({'Suo': 1, 'suo': 1})
+
+Sostantivo: stoppie
+Aggetivi: Counter({'riarse': 2, 'calde': 1})
+
+Sostantivo: Mamma
+Aggetivi: Counter({'mia': 3, 'scellerata': 1})
+
+Sostantivo: vista
+Aggetivi: Counter({'lunga': 1, 'malcerta': 1})
+
+Sostantivo: vigne
+Aggetivi: Counter({'sue': 2})
+
+Sostantivo: magazzini
+Aggetivi: Counter({'grandi': 1, 'pieni': 1})
+
+Sostantivo: carità
+Aggetivi: Counter({'nudo': 1, 'solita': 1})
+
+Sostantivo: chiusa
+Aggetivi: Counter({'limitrofa': 1, 'bella': 1})
+
+Sostantivo: donne
+Aggetivi: Counter({'loro': 2, 'povere': 1, 'nostre': 1})
+
+Sostantivo: orecchini
+Aggetivi: Counter({'massicci': 1, 'grossi': 1})
+
+Sostantivo: ignudi
+Aggetivi: Counter({'nati': 2})
+
+Sostantivo: comitiva
+Aggetivi: Counter({'nuova': 2})
+
+Sostantivo: stradone
+Aggetivi: Counter({'polveroso': 2, 'provinciale': 1})
+
+Sostantivo: stazione
+Aggetivi: Counter({'ferroviaria': 2})
+
+Sostantivo: porticina
+Aggetivi: Counter({'posta': 1, 'piccola': 1})
+
+Sostantivo: guadagni
+Aggetivi: Counter({'bei': 2, 'suoi': 1})
+
+Sostantivo: povera
+Aggetivi: Counter({'vecchia': 1, 'figliuola': 1})
+
+Sostantivo: partenza
+Aggetivi: Counter({'prossima': 2})
+
+Sostantivo: medico
+Aggetivi: Counter({'giovane': 3, 'nuovo': 2})
+
+Sostantivo: dottore
+Aggetivi: Counter({'giovane': 6, 'mio': 1})
+
+Sostantivo: signorino
+Aggetivi: Counter({'mio': 7})
+
+Sostantivo: matta
+Aggetivi: Counter({'vecchia': 2})
+
+Sostantivo: piú
+Aggetivi: Counter({'mondo': 1, 'feroce': 1, 'dotto': 1, 'poveretto': 1, 'accidiosa': 1, 'reciso': 1, 'luminoso': 1, 'insolenti': 1, 'rischiose': 1, 'irte': 1, 'forte': 1, 'piccola': 1, 'indispensabili': 1, 'degne': 1, 'triste': 1, 'solo': 1})
+
+Sostantivo: altipiano
+Aggetivi: Counter({'vasto': 1, 'marnoso': 1})
+
+Sostantivo: tempio
+Aggetivi: Counter({'antico': 1, 'magnifico': 1})
+
+Sostantivo: figliuola
+Aggetivi: Counter({'maggiore': 1, 'mia': 1})
+
+Sostantivo: bambino
+Aggetivi: Counter({'altro': 1, 'lattante': 1, 'nuovo': 1, 'suo': 1})
+
+Sostantivo: scarponi
+Aggetivi: Counter({'grossi': 1, 'pesanti': 1})
+
+Sostantivo: sguardi
+Aggetivi: Counter({'torvi': 1, 'fieri': 1})
+
+Sostantivo: cosí
+Aggetivi: Counter({'vecchia': 1, 'strano': 1})
+
+Sostantivo: peggiori
+Aggetivi: Counter({'ladri': 1, 'assassini': 1})
+
+Sostantivo: processo
+Aggetivi: Counter({'misterioso': 1, 'artistico': 1, 'lungo': 1})
+
+Sostantivo: amante
+Aggetivi: Counter({'suo': 2, 'sua': 1})
+
+Sostantivo: tenerezza
+Aggetivi: Counter({'rispettosa': 1, 'gioconda': 1})
+
+Sostantivo: Sul
+Aggetivi: Counter({'mio': 1, 'serio': 1})
+
+Sostantivo: piroscafo
+Aggetivi: Counter({'suo': 2, 'nuovo': 1})
+
+Sostantivo: vapori
+Aggetivi: Counter({'mercantili': 3})
+
+Sostantivo: torre
+Aggetivi: Counter({'alta': 1, 'bianca': 1, 'detta': 1})
+
+Sostantivo: marinai
+Aggetivi: Counter({'ansanti': 1, 'altri': 1})
+
+Sostantivo: azzurro
+Aggetivi: Counter({'limpido': 1, 'aspro': 1})
+
+Sostantivo: marinajo
+Aggetivi: Counter({'malato': 1, 'giovane': 1})
+
+Sostantivo: straniero
+Aggetivi: Counter({'giovane': 1, 'giovine': 1, 'povero': 1})
+
+Sostantivo: zitellona
+Aggetivi: Counter({'cinquantaquattrenne': 1, 'pudibonda': 1, 'tale': 1})
+
+Sostantivo: mezzi
+Aggetivi: Counter({'riccetti': 2})
+
+Sostantivo: unti
+Aggetivi: Counter({'riccetti': 2})
+
+Sostantivo: divanaccio
+Aggetivi: Counter({'sgangherato': 2})
+
+Sostantivo: molle
+Aggetivi: Counter({'sconnesse': 3})
+
+Sostantivo: malattia
+Aggetivi: Counter({'mortale': 1, 'sua': 1})
+
+Sostantivo: cure
+Aggetivi: Counter({'intime': 1, 'tante': 1})
+
+Sostantivo: tedio
+Aggetivi: Counter({'smanioso': 1, 'suo': 1, 'mortale': 1})
+
+Sostantivo: uso
+Aggetivi: Counter({'frequentissimo': 1, 'continuo': 1})
+
+Sostantivo: luna
+Aggetivi: Counter({'stessa': 1, 'smoriva': 1})
+
+Sostantivo: don
+Aggetivi: Counter({'nuovo': 1, 'suo': 1})
+
+Sostantivo: vaporetto
+Aggetivi: Counter({'suo': 1, 'altro': 1, 'nuovo': 1})
+
+Sostantivo: francese
+Aggetivi: Counter({'consentaneo': 1, 'suo': 1})
+
+Sostantivo: cuccetta
+Aggetivi: Counter({'sua': 1, 'antica': 1})
+
+Sostantivo: esilio
+Aggetivi: Counter({'suo': 1, 'angoscioso': 1})
+
+Sostantivo: casetta
+Aggetivi: Counter({'nuova': 2, 'sua': 1})

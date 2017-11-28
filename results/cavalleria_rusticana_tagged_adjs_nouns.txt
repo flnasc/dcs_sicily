@@ -1,0 +1,37 @@
+
+==== Adjectives List ====
+mio 12
+suo 11
+bello 5
+vostro 5
+rosso 3
+buono 3
+vero 3
+nostro 3
+ricco 3
+vecchio 3
+degno 2
+zitto 2
+rusticano 1
+vivo 1
+santo 1
+budella 1
+solitario 1
+bianco 1
+roco 1
+lungo 1
+poveretto 1
+baio 1
+ch' 1
+grosso 1
+dolce 1
+rissoso 1
+pallido 1
+nero 1
+nuovo 1
+solenne 1
+lontano 1
+bravo 1
+tutto 1
+altro 1
+tuo 1

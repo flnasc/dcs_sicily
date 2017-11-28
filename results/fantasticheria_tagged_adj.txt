@@ -1,0 +1,168 @@
+
+==== Adjectives Counter ====
+Total number of nouns     : 282
+Total number of adjectives: 375
+Average adjectives/noun.  : 1
+
+
+Sostantivo: ste
+Aggetivi: Counter({'belle': 2})
+
+Sostantivo: viso
+Aggetivi: Counter({'lungo': 1, 'altro': 1})
+
+Sostantivo: madre
+Aggetivi: Counter({'Mia': 1, 'vostra': 1, 'tua': 1})
+
+Sostantivo: tempo
+Aggetivi: Counter({"ch'": 1, 'elegantissimo': 1})
+
+Sostantivo: marito
+Aggetivi: Counter({'suo': 3, 'mio': 1})
+
+Sostantivo: cose
+Aggetivi: Counter({'belle': 1, 'circostanti': 1, 'liete': 1, 'serissime': 1})
+
+Sostantivo: Dio
+Aggetivi: Counter({'vostro': 1, 'vero': 1})
+
+Sostantivo: mamma
+Aggetivi: Counter({'mia': 2})
+
+Sostantivo: mule
+Aggetivi: Counter({'sue': 4})
+
+Sostantivo: veste
+Aggetivi: Counter({'bella': 1, 'vostra': 1})
+
+Sostantivo: via
+Aggetivi: Counter({'vostra': 1, 'contenta': 1})
+
+Sostantivo: moglie
+Aggetivi: Counter({'sua': 6, 'vostra': 2, 'sana': 1})
+
+Sostantivo: Iddio
+Aggetivi: Counter({'vero': 2})
+
+Sostantivo: guardia
+Aggetivi: Counter({'tutto': 1, 'nazionale': 1})
+
+Sostantivo: sera
+Aggetivi: Counter({'quella': 2})
+
+Sostantivo: volta
+Aggetivi: Counter({'altra': 2, 'ultima': 2, 'sua': 1})
+
+Sostantivo: caruso
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: labbro
+Aggetivi: Counter({'inferiore': 2})
+
+Sostantivo: bujo
+Aggetivi: Counter({'crudo': 1, 'vano': 1})
+
+Sostantivo: lagrima
+Aggetivi: Counter({'grossa': 1, 'sua': 1})
+
+Sostantivo: bocca
+Aggetivi: Counter({'arsa': 1, 'sua': 1, 'aperta': 1})
+
+Sostantivo: occhio
+Aggetivi: Counter({'pieno': 1, 'perduto': 1, 'chiaro': 1})
+
+Sostantivo: antro
+Aggetivi: Counter({'infernale': 1, 'noto': 1})
+
+Sostantivo: padrone
+Aggetivi: Counter({'suo': 3})
+
+Sostantivo: scalini
+Aggetivi: Counter({'rotti': 1, 'ultimi': 1})
+
+Sostantivo: aspetti
+Aggetivi: Counter({'noti': 1, 'eroica': 1})
+
+Sostantivo: piede
+Aggetivi: Counter({'noto': 1, 'vostro': 1})
+
+Sostantivo: notte
+Aggetivi: Counter({'nera': 1, 'romanticissima': 1, 'fosca': 1})
+
+Sostantivo: silenzio
+Aggetivi: Counter({'arcano': 1, 'nero': 1})
+
+Sostantivo: vacuità
+Aggetivi: Counter({'sterminata': 1, 'impalpabile': 1})
+
+Sostantivo: carico
+Aggetivi: Counter({'enorme': 1, 'suo': 1, 'leggiero': 1})
+
+Sostantivo: mani
+Aggetivi: Counter({'nere': 1, 'bianche': 1})
+
+Sostantivo: ciottoli
+Aggetivi: Counter({'umidi': 2})
+
+Sostantivo: bestie
+Aggetivi: Counter({'sue': 3, 'povere': 1})
+
+Sostantivo: lettiga
+Aggetivi: Counter({'sua': 4, 'vuota': 1})
+
+Sostantivo: sciabole
+Aggetivi: Counter({'appese': 1, 'sfoderate': 1})
+
+Sostantivo: letto
+Aggetivi: Counter({'suo': 1, 'vuoto': 1})
+
+Sostantivo: alba
+Aggetivi: Counter({'cenerognola': 1, 'modesta': 1})
+
+Sostantivo: pezzo
+Aggetivi: Counter({'bel': 2, 'suo': 1})
+
+Sostantivo: calzoni
+Aggetivi: Counter({'rossi': 2})
+
+Sostantivo: regina
+Aggetivi: Counter({'tua': 1, 'sua': 1, 'sana': 1})
+
+Sostantivo: padre
+Aggetivi: Counter({'suo': 2})
+
+Sostantivo: parola
+Aggetivi: Counter({'sua': 1, 'sola': 1})
+
+Sostantivo: folla
+Aggetivi: Counter({'nera': 1, 'gran': 1})
+
+Sostantivo: sole
+Aggetivi: Counter({'bel': 1, 'tiepido': 1, 'nascente': 1})
+
+Sostantivo: strada
+Aggetivi: Counter({'piana': 2})
+
+Sostantivo: occhi
+Aggetivi: Counter({'chiusi': 1, 'azzurri': 1, 'aperti': 1, 'miei': 1, 'attoniti': 1, 'invidiosi': 1, 'intenti': 1, 'suoi': 1, 'vostri': 1})
+
+Sostantivo: strade
+Aggetivi: Counter({'carrozzabili': 2})
+
+Sostantivo: mente
+Aggetivi: Counter({'quella': 1, 'mia': 1})
+
+Sostantivo: donna
+Aggetivi: Counter({'povera': 1, 'sola': 1})
+
+Sostantivo: ricordi
+Aggetivi: Counter({'lieti': 1, 'son': 1})
+
+Sostantivo: pensiero
+Aggetivi: Counter({'mio': 1, 'vagabondo': 1})
+
+Sostantivo: nonno
+Aggetivi: Counter({'suo': 1, 'loro': 1, 'vecchio': 1})
+
+Sostantivo: gente
+Aggetivi: Counter({'povera': 2, 'buona': 1})

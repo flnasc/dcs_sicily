@@ -1,0 +1,27 @@
+
+==== Adjectives Counter ====
+Total number of nouns     : 47
+Total number of adjectives: 57
+Average adjectives/noun.  : 1
+
+
+Sostantivo: ste
+Aggetivi: Counter({'belle': 2})
+
+Sostantivo: madre
+Aggetivi: Counter({'Mia': 1, 'vostra': 1, 'tua': 1})
+
+Sostantivo: marito
+Aggetivi: Counter({'suo': 2, 'mio': 1})
+
+Sostantivo: mamma
+Aggetivi: Counter({'mia': 2})
+
+Sostantivo: mule
+Aggetivi: Counter({'sue': 2})
+
+Sostantivo: moglie
+Aggetivi: Counter({'vostra': 2, 'sua': 1})
+
+Sostantivo: Iddio
+Aggetivi: Counter({'vero': 2})

@@ -1,0 +1,25 @@
+
+==== Entities in the file ====
+Cace ENTITY:ORG
+Zi ENTITY:PER
+Gesù ENTITY:PER
+Zi ENTITY:PER
+Comitini ENTITY:GPE
+Cacciagallì ENTITY:PER
+Calicchio ENTITY:PER
+Calicchio ENTITY:PER
+Dio ENTITY:PER
+Ciàula ENTITY:PER
+Signore ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Ciàula ENTITY:PER
+Estatico ENTITY:PER
+Ciàula ENTITY:PER

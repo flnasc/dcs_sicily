@@ -1,0 +1,11 @@
+
+==== Entities in the file ====
+Parigi ENTITY:GPE
+Nizza ENTITY:GPE
+Napoli ENTITY:GPE
+Pantelleria ENTITY:GPE
+Lissa ENTITY:GPE
+David ENTITY:PER
+Pantelleria ENTITY:GPE
+Dio ENTITY:PER
+Gesù ENTITY:PER
