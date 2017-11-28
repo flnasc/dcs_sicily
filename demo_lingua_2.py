@@ -4,7 +4,7 @@ import time
 import sys
 
 SERVER_PATH = "http://api.italianlp.it"
-INPUT_FILE = '/Users/fnascime/Documents/Sicily_Project/texts/lampedusa_il_gattopardo.txt'
+INPUT_FILE = '/Users/fnascime/Dev/python_projects/Sicily/data/cavalleria_rusticana.txt'
 text = codecs.open(INPUT_FILE, 'r', 'utf-8').read()
 start_time = time.time()
 
@@ -13,11 +13,12 @@ r = requests.post(SERVER_PATH + '/documents/',
                   data={'text': text,
                         'lang': "IT",
                         'async': "true",
+                        #'extra_tasks': ["syntax"]})
                         'extra_tasks': ["syntax", "named_entity"]})
 id_doc = r.json()['id']
 page = 1
 
-outfile = codecs.open("out.txt", 'w', 'utf-8')
+outfile = codecs.open("/Users/fnascime/Dev/python_projects/Sicily/results/cavalleria_rusticana_tagged.txt", 'w', 'utf-8')
 
 while True:
   result = requests.get(SERVER_PATH + '/documents/details/%s?page=%s' % (id_doc, page))
